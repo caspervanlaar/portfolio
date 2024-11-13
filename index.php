@@ -1,4 +1,4 @@
-//<?php include 'includes/header.php'; ?>
+<?php include 'includes/header.php'; ?>
 <main>
     <section class="intro">
         <h1>Casper David van Laar</h1>
@@ -7,8 +7,5 @@
     </section>
 </main>
 <?php include 'includes/footer.php'; ?>
-//
 
-<?php
-echo "Hello, PHP is working!";
-?>
+
