@@ -1,0 +1,6 @@
+# Ignore configuration and environment files
+config.php
+
+# Ignore all .DS_Store and Thumbs.db files (macOS and Windows metadata files)
+.DS_Store
+Thumbs.db
