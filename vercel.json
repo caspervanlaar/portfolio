@@ -1,10 +1,48 @@
 {
   "functions": {
-    "api/*.php": {
-      "runtime": "vercel-php@0.6.1"
+    "api/about.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+    "api/contact.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+    "api/experience.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+    "api/index.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+    "api/phpinfo.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+    "api/projects.php": {
+      "runtime": "vercel-php@0.6.0"
+    },
+    "api/about.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/contact.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/experience.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/index.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/phpinfo.js": {
+      "runtime": "nodejs18.x"
+    },
+    "api/projects.js": {
+      "runtime": "nodejs18.x"
     }
   },
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/$1" }
+    { "source": "/api/about", "destination": "/api/about.php" },
+    { "source": "/api/contact", "destination": "/api/contact.php" },
+    { "source": "/api/experience", "destination": "/api/experience.php" },
+    { "source": "/api/index", "destination": "/api/index.php" },
+    { "source": "/api/phpinfo", "destination": "/api/phpinfo.php" },
+    { "source": "/api/projects", "destination": "/api/projects.php" }
   ]
 }
