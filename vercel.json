@@ -1,10 +1,5 @@
 {
   "rewrites": [
-    { "source": "/api/about", "destination": "/api/about.php" },
-    { "source": "/api/contact", "destination": "/api/contact.php" },
-    { "source": "/api/experience", "destination": "/api/experience.php" },
-    { "source": "/api/index", "destination": "/api/index.php" },
-    { "source": "/api/phpinfo", "destination": "/api/phpinfo.php" },
-    { "source": "/api/projects", "destination": "/api/projects.php" }
+    { "source": "/api/:path*", "destination": "/api/:path*.php" }
   ]
 }
