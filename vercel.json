@@ -1,24 +1,4 @@
 {
-  "functions": {
-    "api/about.php": {
-      "runtime": "vercel-php"
-    },
-    "api/contact.php": {
-      "runtime": "vercel-php"
-    },
-    "api/experience.php": {
-      "runtime": "vercel-php"
-    },
-    "api/index.php": {
-      "runtime": "vercel-php"
-    },
-    "api/phpinfo.php": {
-      "runtime": "vercel-php"
-    },
-    "api/projects.php": {
-      "runtime": "vercel-php"
-    }
-  },
   "rewrites": [
     { "source": "/api/about", "destination": "/api/about.php" },
     { "source": "/api/contact", "destination": "/api/contact.php" },
