@@ -13,6 +13,7 @@
             <a href="index.php">Home</a>
             <a href="about.php">About</a>
             <a href="projects.php">Projects</a>
+            <a href="experience.php">Experience</a>
             <a href="contact.php">Contact</a>
         </nav>
     </header>
