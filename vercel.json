@@ -1,22 +1,22 @@
 {
   "functions": {
     "api/about.php": {
-      "runtime": "vercel-php@0.6.0"
+      "runtime": "now-php@1.0.0"
     },
     "api/contact.php": {
-      "runtime": "vercel-php@0.6.0"
+      "runtime": "now-php@1.0.0"
     },
     "api/experience.php": {
-      "runtime": "vercel-php@0.6.0"
+      "runtime": "now-php@1.0.0"
     },
     "api/index.php": {
-      "runtime": "vercel-php@0.6.0"
+      "runtime": "now-php@1.0.0"
     },
     "api/phpinfo.php": {
-      "runtime": "vercel-php@0.6.0"
+      "runtime": "now-php@1.0.0"
     },
     "api/projects.php": {
-      "runtime": "vercel-php@0.6.0"
+      "runtime": "now-php@1.0.0"
     },
     "api/about.js": {
       "runtime": "nodejs18.x"
