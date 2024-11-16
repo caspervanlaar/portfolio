@@ -10,10 +10,10 @@
     <header>
         <h1>Casper's Portfolio</h1>
         <nav>
-            <a href="index.php">Home</a>
-            <a href="about.php">About</a>
-            <a href="projects.php">Projects</a>
-            <a href="experience.php">Experience</a>
-            <a href="contact.php">Contact</a>
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+            <a href="/projects">Projects</a>
+            <a href="/experience">Experience</a>
+            <a href="/contact">Contact</a>
         </nav>
     </header>
