@@ -1,3 +1,4 @@
+<?php include 'header.php'; ?>
 <main>
     <section class="intro">
         <div class="flex flex-col md:flex-row">
@@ -10,3 +11,4 @@
         </div>
     </section>
 </main>
+<?php include 'footer.php'; ?>
