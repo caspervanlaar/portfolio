@@ -30,11 +30,11 @@ button {
 }
 
 .intro-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .intro img {
-    width: 100px; /* Or use a percentage-based width */
-  } 
+    text-align: center;
+}
+
+.intro img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
