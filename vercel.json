@@ -3,7 +3,7 @@
     "builds": [
       {
         "src": "**/*",
-        "use": "@vercel/static-kit"
+        "use": "@vercel/build"
       }
     ],
     "functions": {
