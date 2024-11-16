@@ -37,6 +37,6 @@ button {
 
 .intro img {
     display: inline-block;
-    vertical-align: right;
-    width: 100px;   
-}
+    vertical-align: middle;
+    width: 100px;
+}   
