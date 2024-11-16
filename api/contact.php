@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 <main>
     <section class="contact">
         <h2>Contact Me</h2>
@@ -18,4 +18,4 @@
         </form>
     </section>
 </main>
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>

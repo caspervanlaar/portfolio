@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include 'header.php'; ?>
 <main>
     <section class="intro">
         <h1>Casper David van Laar</h1>
@@ -6,6 +6,6 @@
         <a href="about.php">Learn more about me</a>
     </section>
 </main>
-<?php include 'includes/footer.php'; ?>
+<?php include 'footer.php'; ?>
 
 

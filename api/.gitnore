@@ -1,6 +1,16 @@
-# Ignore configuration and environment files
-config.php
+# Node modules
+node_modules/
 
-# Ignore all .DS_Store and Thumbs.db files (macOS and Windows metadata files)
+# Vercel deployment logs
+.vercel/
+
+# System files
 .DS_Store
-Thumbs.db
+
+# Local environment files
+.env.local
+
+# PHP-specific files
+*.php~
+*.bak
+*.swp
