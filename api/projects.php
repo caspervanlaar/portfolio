@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'api/header.php'; ?>
 <main>
     <section class="projects">
         <h2>Projects</h2>
@@ -22,4 +22,4 @@
 
     </section>
 </main>
-<?php include 'footer.php'; ?>
+<?php include 'api/footer.php'; ?>

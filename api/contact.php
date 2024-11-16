@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'api/header.php'; ?>
 <main>
     <section class="contact">
         <h2>Contact Me</h2>
@@ -18,4 +18,4 @@
         </form>
     </section>
 </main>
-<?php include 'footer.php'; ?>
+<?php include 'api/footer.php'; ?>
