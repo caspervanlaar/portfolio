@@ -1,4 +1,4 @@
-<?php include 'api/header.php'; ?>
+<?php include 'header.php'; ?>
 <main>
     <section class="about">
         <h2>About Me</h2>
@@ -34,4 +34,4 @@
         <p>I enjoy Brazilian Jiu-Jitsu, theoretical physics, and exploring the philosophy of mind.</p>
     </section>
 </main>
-<?php include 'api/footer.php'; ?>
+<?php include 'footer.php'; ?>
