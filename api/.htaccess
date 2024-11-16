@@ -1,2 +1,0 @@
-# Ensure that PHP files are processed correctly
-AddType application/x-httpd-php .php
