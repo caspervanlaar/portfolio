@@ -46,16 +46,25 @@ button {
     border-radius: 50%;
   }
 
-  .experience-item {
+  .experience-container {
     display: grid;
-    grid-template-columns: 1fr 200px; /* Adjust the second column width as needed */
-    gap: 20px; /* Optional spacing between text and image */
+    grid-template-columns: repeat(2, 1fr); /* Two columns for each experience */
+    gap: 20px; /* Optional spacing between experiences */
   }
   
-  .experience-item img {
-    max-width: 200px; /* Adjust the maximum width as needed */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 50%;
-    grid-column: 2; /* Place image in the second column */
+  .experience-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Spacing between header/image and text */
+  }
+  
+  .header-image {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Spacing between header and image */
+  }
+  
+  .header-image h3 {
+    margin-bottom: 0; /* Remove default margin */
   }
   
