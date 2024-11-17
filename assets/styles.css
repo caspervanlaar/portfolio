@@ -30,13 +30,14 @@ button {
 }
 
 .intro-content {
-    text-align: left; /* Allow text to wrap around the image */
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Stack elements vertically */
+    align-items: flex-start; /* Align items to the left */
   }
   
   .intro img {
     max-width: 200px; /* Adjust width as needed */
     border-radius: 50%;
-    margin-bottom: 20px;
-    float: right; /* Float image to the right */
-    margin-left: 20px; /* Optional: Add margin between text and image */
+    margin-bottom: 0; /* Remove bottom margin */
+    margin-top: 20px; /* Optional: Add margin between text and image */
   }
