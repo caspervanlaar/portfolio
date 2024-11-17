@@ -48,23 +48,32 @@ button {
 
   .experience-container {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Two columns for each experience */
-    gap: 20px; /* Optional spacing between experiences */
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
   }
   
   .experience-item {
     display: flex;
     flex-direction: column;
-    gap: 10px; /* Spacing between header/image and text */
+    align-items: center;
   }
   
   .header-image {
     display: flex;
+    flex-direction: column;
     align-items: center;
-    gap: 10px; /* Spacing between header and image */
   }
   
   .header-image h3 {
-    margin-bottom: 0; /* Remove default margin */
+    margin-bottom: 10px;
+  }
+  
+  .header-image img {
+    max-width: 200px;
+    height: auto;
+  }
+  
+  .text-content {
+    text-align: center;
   }
   
