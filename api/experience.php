@@ -21,14 +21,16 @@
         <div class="text-content">
             <h3>HAN Seneca - Sport and Exercise Nutrition Research Team</h3>
             <p><strong>Intern</strong></p>
+        </div>
+        <img src="https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/netherlands/2019-12-18_28_HAN-merkteken-descriptor.png" alt="HAN Seneca - Sport and Exercise Nutrition Research Team">
             <p>
                 During my internship at HAN Seneca’s Sport and Exercise Nutrition Research Team, I was responsible for developing an e-learning module on sports nutrition aimed at improving athletes' understanding of nutrition science. The module provided evidence-based nutrition recommendations tailored to the specific needs of athletes, including former professional cyclists. In addition, I was involved in offering personalized nutrition and training advice to these athletes, ensuring that they received the most up-to-date and practical guidance to optimize their performance and recovery.
             </p>
             <p>
                 Another key responsibility was organizing and managing motor skills testing for children. This involved coordinating the logistics of the testing sessions, ensuring accurate data collection, and providing a supportive environment for participants. This experience not only enhanced my project management skills but also gave me valuable insights into how nutrition and physical activity influence cognitive and motor development in children.
             </p>
-            <img src="https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/netherlands/2019-12-18_28_HAN-merkteken-descriptor.png" alt="HAN Seneca - Sport and Exercise Nutrition Research Team">
         </div>
+        
     </div>
   </section>
 </main>
