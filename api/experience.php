@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 <main>
   <section class="experience">
-    <div class="intro-content">
+    
       <h2>Experience</h2>
 
       <div class="experience-item">
@@ -27,7 +27,7 @@
         </p>
         <img src="https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/netherlands/2019-12-18_28_HAN-merkteken-descriptor.png" alt="HAN Seneca - Sport and Exercise Nutrition Research Team">
       </div>
-    </div>
+    
   </section>
 </main>
 <?php include 'footer.php'; ?>
