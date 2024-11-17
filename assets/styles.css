@@ -40,5 +40,5 @@ button {
     max-width: 200px; /* Adjust width as needed */
     border-radius: 50%;
     margin-bottom: 0; /* Remove bottom margin */
-    order: 2; /* Move the image to the right */
+    order: 1; /* Move the image to the right */
   }
