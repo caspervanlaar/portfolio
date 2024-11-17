@@ -1,3 +1,4 @@
+<?php include 'header.php'; ?>
 <main>
   <section class="intro">
     <div class="intro-content">
@@ -8,3 +9,4 @@
     </div>
   </section>
 </main>
+<?php include 'footer.php'; ?>
