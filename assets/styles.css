@@ -64,7 +64,7 @@ button {
   }
   
   .header-image h3 {
-    margin-right: 10px; /* Adjust spacing between header and image */
+    margin-left: 10px; /* Adjust spacing between header and image */
   }
   
   .header-image img {

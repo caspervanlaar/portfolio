@@ -5,7 +5,7 @@
   <div class="experience-container">
     <div class="experience-item">
       <div class="header-image">
-        <h3>Erasmus MC - Neuroscience Department</h3>
+        <h3>Neuroscience Department</h3>
         <img src="https://www.dutchatmpsummit.com/wp-content/uploads/2022/10/Erasmus-MC-logo-website.png" alt="Erasmus MC Internship - Neuroscience Department">
       </div>
       <div class="text-content">        
@@ -25,7 +25,7 @@
 
     <div class="experience-item">
       <div class="header-image">
-        <h3>HAN Seneca - Sport and Exercise Nutrition Research Team</h3>
+        <h3>Sport and Exercise Nutrition Research Team</h3>
         <img src="https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/netherlands/2019-12-18_28_HAN-merkteken-descriptor.png" alt="HAN Seneca - Sport and Exercise Nutrition Research Team">
       </div>
       <div class="text-content">
