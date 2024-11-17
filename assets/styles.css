@@ -47,13 +47,14 @@ button {
   }
 
   .experience-container {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 20px;
   }
   
   .experience-item {
     display: flex;
+    flex-direction: column;
     align-items: center;
   }
   
@@ -63,14 +64,15 @@ button {
   }
   
   .header-image h3 {
-    margin-right: 10px;
+    margin-right: 10px; /* Add margin to separate header and image */
   }
   
   .header-image img {
-    max-width: 175px;
+    max-width: 175px; /* Adjust the maximum width as needed */
     height: auto;
   }
   
   .text-content {
     text-align: center;
   }
+  
