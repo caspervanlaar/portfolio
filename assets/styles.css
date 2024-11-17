@@ -47,8 +47,8 @@ button {
   }
 
   .experience-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    display: flex;
+    flex-direction: column;
     gap: 20px;
   }
   
@@ -64,15 +64,16 @@ button {
   }
   
   .header-image h3 {
-    margin-right: 10px; /* Add margin to separate header and image */
+    margin-right: 10px; /* Adjust spacing between header and image */
   }
   
   .header-image img {
-    max-width: 175px; /* Adjust the maximum width as needed */
+    max-width: 150px; /* Adjust image size as needed */
     height: auto;
   }
   
   .text-content {
     text-align: center;
+    width: 100%; /* Ensure text content fills the available width */
   }
   
