@@ -47,8 +47,8 @@ button {
   }
 
   .experience-item img {
-    max-width: 200px; /* Adjust as needed */
+    max-width: 200px; /* Adjust the maximum width as needed */
     height: auto; /* Maintain aspect ratio */
-    float: right; /* Position image to the right */
-    margin-left: 20px; /* Optional: Add spacing between text and image */
+    border-radius: 50%;
   }
+  
