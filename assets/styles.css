@@ -60,16 +60,15 @@ button {
   
   .header-image {
     display: flex;
-    flex-direction: column;
     align-items: center;
   }
   
   .header-image h3 {
-    margin-bottom: 10px;
+    margin-right: 10px; /* Add margin to separate header and image */
   }
   
   .header-image img {
-    max-width: 200px;
+    max-width: 100px; /* Adjust the maximum width as needed */
     height: auto;
   }
   

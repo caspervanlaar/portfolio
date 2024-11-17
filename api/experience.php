@@ -1,3 +1,4 @@
+<?php include 'header.php'; ?>
 <section class="experience">
   <h2>Experience</h2>
 
@@ -7,8 +8,7 @@
         <h3>Erasmus MC - Neuroscience Department</h3>
         <img src="https://www.dutchatmpsummit.com/wp-content/uploads/2022/10/Erasmus-MC-logo-website.png" alt="Erasmus MC Internship - Neuroscience Department">
       </div>
-      <div class="text-content">
-        <p><strong>Intern</strong></p>
+      <div class="text-content">        
         <p>
           During my internship at Erasmus MC in the Neuroscience Department, I focused on decoding electrophysiological data... (your text content)
         </p>
@@ -29,3 +29,4 @@
     </div>
   </div>
 </section>
+<?php include 'footer.php'; ?>
