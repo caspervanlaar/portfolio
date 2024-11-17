@@ -48,12 +48,12 @@ button {
 
   .experience-item {
     display: grid;
-    grid-template-columns: 1fr 200px; /* Adjust width as needed */
+    grid-template-columns: 1fr 200px; /* Adjust the second column width as needed */
     gap: 20px; /* Optional spacing between text and image */
   }
   
   .experience-item img {
-    max-width: 200px; /* Adjust as needed */
+    max-width: 200px; /* Adjust the maximum width as needed */
     height: auto; /* Maintain aspect ratio */
     border-radius: 50%;
     grid-column: 2; /* Place image in the second column */
