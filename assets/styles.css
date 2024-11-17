@@ -45,3 +45,10 @@ button {
     height: auto; /* Maintain aspect ratio */
     border-radius: 50%;
   }
+
+  .experience-item img {
+    max-width: 200px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+    float: right; /* Position image to the right */
+    margin-left: 20px; /* Optional: Add spacing between text and image */
+  }
