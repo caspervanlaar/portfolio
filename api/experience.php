@@ -1,6 +1,7 @@
 <?php include 'header.php'; ?>
 <main>
   <section class="experience">
+  <div class="intro-content">
     <h2>Experience</h2>
 
     <div class="experience-item">
@@ -28,7 +29,8 @@
         designed to enhance our ability to interpret neural responses.
       </p>
     </div>
-
+    </div>
+    <div class="intro-content">
     <div class="experience-item">
       <img src="https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/netherlands/2019-12-18_28_HAN-merkteken-descriptor.png" alt="HAN Seneca - Sport and Exercise Nutrition Research Team">
       <h3>HAN Seneca - Sport and Exercise Nutrition Research Team</h3>
@@ -48,6 +50,7 @@
         This experience not only enhanced my project management skills but also gave me valuable insights into 
         how nutrition and physical activity influence cognitive and motor development in children.
       </p>
+    </div>
     </div>
   </section>
 </main>
