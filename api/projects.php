@@ -18,7 +18,9 @@
   <h3>Current projects</h3>
   <div class="project-content">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
-    <p>I’m working on a project to classify trauma severity using EEG and other physiological data, with a dataset of 3,600 patients and 14 variables. I’ve optimized the model using a RandomForestRegressor. For me the goal of this project is not getting a super accurate model.  Since there are better classifying techniques for that. But to sharpen my mathematical understanding of simple regression and classifying techniques. </p>
+    <p>I’m working on a project to classify trauma severity using EEG and other physiological data. Using LASSO - and random forrest regression.
+        The goal of this project was not getting a the bestmodel.  Since there are better classifying techniques for that.
+        But to sharpen my mathematical understanding of regression and classifying techniques. </p>
     </div>
 </div>
 
