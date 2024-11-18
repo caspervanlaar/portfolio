@@ -32,7 +32,7 @@ button {
 .intro-content {
     display: grid;
     grid-template-columns: 1fr 200px; /* Adjust the second column width as needed */
-    gap: 20px; /* Optional: Add spacing between the text and image */
+    gap: 5px; /* Optional: Add spacing between the text and image */
   }
   
   .text-content {
@@ -76,4 +76,24 @@ button {
   text-align: center;
   width: 100%; /* Ensure text content fills the available width */
 }
+
+.project {
+    margin-bottom: 20px; /* Add spacing between projects */
+    padding: 20px; /* Add padding to the project container */
+    border: 1px solid #ccc; /* Add a border around the project */
+    border-radius: 5px; /* Add rounded corners */
+    background-color: #f8f8f8; /* Add a background color */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  }
+  
+  .project-content {
+    display: flex; /* Use flexbox for side-by-side layout */
+    align-items: center; /* Center content vertically */
+    gap: 10px; /* Optional: Add spacing between image and text */
+  }
+  
+  .project-content img {
+    max-width: 150px; /* Adjust image size as needed */
+    height: auto;
+  }
   
