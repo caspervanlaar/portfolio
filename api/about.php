@@ -37,9 +37,17 @@
             <li>Machine Learning for EEG Analysis and Neuroscience</li>
             <li>Interdisciplinary Research in Neuroscience</li>
         </ul>
+<<<<<<< HEAD
         
 <p>
  
+=======
+        <h3>Hobbies</h3>
+<p>
+  I enjoy <a href="https://www.instagram.com/p/CuQYPZjMjHo/">Brazilian Jiu-Jitsu</a> 
+  and <a href="https://www.goodreads.com/user/show/177170325-casper-david"> science fiction and non fiction books </a>, . 
+    
+>>>>>>> e969d068f01cff53a8086530b30701c18d3860a7
 </p></section>
 </main>
 <?php include 'footer.php'; ?>
