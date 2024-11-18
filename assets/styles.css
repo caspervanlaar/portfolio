@@ -47,9 +47,12 @@ button {
   }
 
   .experience-container {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
+    margin-bottom: 20px; /* Add spacing between projects */
+    padding: 20px; /* Add padding to the project container */
+    border: 1px solid #ccc; /* Add a border around the project */
+    border-radius: 5px; /* Add rounded corners */
+    background-color: #f8f8f8; /* Add a background color */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
 }
 
 .experience-item {

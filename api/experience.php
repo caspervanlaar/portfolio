@@ -22,7 +22,8 @@
       </p>
       </div>
     </div>
-
+    </div>
+    <div class="experience-container">
     <div class="experience-item">
       <div class="header-image">
       <img src="https://s3.ap-south-1.amazonaws.com/leverageedu/school-logo/netherlands/2019-12-18_28_HAN-merkteken-descriptor.png" alt="HAN Seneca - Sport and Exercise Nutrition Research Team">
@@ -41,6 +42,7 @@
         Another key responsibility was organizing and managing motor skills testing for children. This involved coordinating the logistics of the testing sessions, ensuring accurate data collection, and providing a supportive environment for participants. This experience not only enhanced my project management skills but also gave me valuable insights into how nutrition and physical activity influence cognitive and motor development in children.
 
       </p>
+      </div>
       </div>
     </div>
   </div>
