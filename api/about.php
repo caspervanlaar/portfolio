@@ -35,7 +35,10 @@
             <li>Interdisciplinary Research in Neuroscience</li>
         </ul>
         <h3>Hobbies</h3>
-        <p>I enjoy Brazilian Jiu-Jitsu, science fiction, pop science books about theoretical physics and biology, and exploring the philosophy of mind.</p>
-    </section>
+<p>
+  I enjoy <a href="https://www.instagram.com/p/CuQYPZjMjHo/">Brazilian Jiu-Jitsu</a> 
+  and <a href="https://www.goodreads.com/user/show/177170325-casper-david"> science fiction and non fiction books </a>, . 
+    
+</p></section>
 </main>
 <?php include 'footer.php'; ?>
