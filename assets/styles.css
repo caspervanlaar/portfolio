@@ -32,8 +32,8 @@ button {
 
 .intro-content {
     display: grid;
-    grid-template-columns: 1fr 150px; /* Adjust column widths as needed */
-    gap: 10px;
+    grid-template-columns: 1fr 100px; /* Adjust column widths as needed */
+    gap: 0px;
     align-items: center;
   }
   
