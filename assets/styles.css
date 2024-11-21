@@ -32,7 +32,7 @@ button {
 
 .intro-content {
     display: grid;
-    grid-template-columns: 1fr 100px; /* Adjust column widths as needed */
+    grid-template-columns: 1fr 50px; /* Adjust column widths as needed */
     gap: 0px;
     align-items: center;
   }
