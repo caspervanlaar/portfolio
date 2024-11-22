@@ -29,6 +29,17 @@ button {
     cursor: pointer;
 }
 
+.header_intro-image {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header_intro-image img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 50%; /* Makes the image circular */
+    transform: scaleX(-1); /* Flips the image horizontally */
+  }
 
   .experience-container {
     margin-bottom: 20px; /* Add spacing between projects */
