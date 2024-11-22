@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 <section class="experience">
-<div class="experience-container">
+<div class="intro-container">
     <div class="intro-item">
         <div class="header_intro-image">    
         <h1>Casper David van Laar</h1> 
