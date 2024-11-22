@@ -30,30 +30,6 @@ button {
 }
 
 
-.intro-content {
-    margin-bottom: 20px; /* Add spacing between projects */
-    padding: 20px; /* Add padding to the project container */
-    border: 1px solid #ccc; /* Add a border around the project */
-    border-radius: 5px; /* Add rounded corners */
-    background-color: #f8f8f8; /* Add a background color */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
-  }
-  
-  .intro-content img {
-    max-width: 100%; /* Adjust image size as needed */
-    height: auto;
-  }
-  .text-content {
-    text-align: center;
-    padding: 50px; /* Add padding to the text content */
-  }
-  
-  .intro img {
-    max-width: 200px; /* Adjust the maximum width as needed */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 50%;
-  }
-
   .experience-container {
     margin-bottom: 20px; /* Add spacing between projects */
     padding: 20px; /* Add padding to the project container */
