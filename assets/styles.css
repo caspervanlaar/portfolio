@@ -32,13 +32,13 @@ button {
 .header_intro-image {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
   }
   
   .header_intro-image img {
-    max-width: 200px;
+    max-width: 150px;
     height: auto;
-    border-radius: 50%; /* Makes the image circular */
-    transform: scaleX(-1); /* Flips the image horizontally */
+    border-radius: 50%; /* Makes the image circular */    ; /* Flips the image horizontally */
   }
 
   .experience-container {
