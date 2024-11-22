@@ -39,7 +39,7 @@ button {
 .header_intro-image {
     display: flex;
     align-items: center;    
-    margin-right: -70px; 
+    margin-right: -100 px; 
   }
   
   .header_intro-image img {
