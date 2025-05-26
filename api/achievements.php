@@ -49,6 +49,22 @@
       </ul>
     </div>
 
+    <strong>University of Applied Sciences Arnhem and Nijmegen, The Netherlands</strong><br>
+          <em>Sept 2019 – Sept 2023</em>
+          <ul>
+            <li>Bachelor of Arts: Sport Science</li>
+            <li>Total ECTS credits: 240</li>
+            <li>Weighted Average Mark (WAM): 7 / 3.3 / H2A</li>
+            <li>Thesis: <em>The Role of Protein Intake in the Bone Health of Former Professional Cyclists</em> — Grade: 8 / 4.0 / Distinction</li>
+            <li>Minor: Cognitive Science</li>
+          </ul>
+        </li>
+        <li>
+          <strong>Utrecht University, The Netherlands</strong><br>
+          <em>Feb 2021 – June 2021</em>
+          <ul>
+            <li>Thesis: <em>Does Daylight and Exercise Overclock the Brain?</em> — Grade: 7 / 3.3 / Credit</li>
+
     <div class="achievements-item">
       <h3>Internship</h3>
       <p><strong>Erasmus MC, Neuroscience Department, The Netherlands</strong><br>
