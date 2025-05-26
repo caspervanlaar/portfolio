@@ -111,3 +111,17 @@ button {
     max-width: 150px; /* Adjust image size as needed */
     height: auto;
   }
+
+  .course-grades table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  .course-grades th, .course-grades td {
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+  }
+  .course-grades em {
+    color: #666;
+  }
