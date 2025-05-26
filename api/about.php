@@ -2,7 +2,7 @@
 <main>
     <section class="about">
         <h2>About Me</h2>
-        I enjoy <a href="C:/xampp/htdocs/portfolio/api/">Brazilian Jiu-Jitsu</a>, reading 
+        I enjoy <a href="https://www.instagram.com/reel/CrYlL6vO93Q/">Brazilian Jiu-Jitsu</a>, reading 
         <a href="https://www.goodreads.com/user/show/177170325-casper-david"> science fiction and non fiction books </a>. 
     
         <p>
