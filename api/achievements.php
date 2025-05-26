@@ -59,12 +59,7 @@
       </ul>
     </div>
 
-    <div class="achievements-item">
-      <h3>Research Experience Highlight</h3>
-      <p>
-        I developed and implemented data analysis pipelines to enhance visualization and interpretation of neural activity. Specifically, I conducted Principal Component Analysis (PCA) on mPFC neurons during eyeblink conditioning tasks to characterize neural population dynamics during behavioral learning. Additionally, I improved this pipeline with Demixed Principal Component Analysis (dPCA) to assess neuronal activity in the deep cerebellum and mPFC during a time-differentiating animal model experiment, enhancing our ability to interpret complex neural responses.
-      </p>
-    </div>
+   
 
   </div>
 </section>
