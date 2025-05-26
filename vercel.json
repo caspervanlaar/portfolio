@@ -10,6 +10,7 @@
       { "src": "/about", "dest": "/api/about.php" },
       { "src": "/projects", "dest": "/api/projects.php" },
       { "src": "/experience", "dest": "/api/experience.php" },
-      { "src": "/contact", "dest": "/api/contact.php" }
+      { "src": "/contact", "dest": "/api/contact.php" },
+      { "src": "/achievements", "dest": "/api/achievements.php" }
     ]
   }
