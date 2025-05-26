@@ -42,7 +42,7 @@
 </li>
 
 
-    <p><small><strong>Expected dissertation completion:</strong> December 8, 2025<br>
+    <p><small><strong>Expected dissertation date:</strong> December 8, 2025<br>
     <strong>Expected graduation:</strong> March 30, 2026</small></p>
   </div>
 </li>
