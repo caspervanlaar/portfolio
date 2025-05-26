@@ -15,7 +15,7 @@
             <a href="/projects">Projects</a>
             <a href="/experience">Experience</a>
             <a href="/contact">Contact</a>
-            <a href="achievements">Achievements</a>
+            <a href="/achievements">Achievements</a>
 
         </nav>
     </header>
