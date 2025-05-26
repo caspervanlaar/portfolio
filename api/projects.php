@@ -54,7 +54,7 @@
 </div>
 
 <div class="project">
-  <h3>EEG-based comprehension prediction</h3>
+  <h3>DBJJL</h3>
   <div class="project-content">
   <img src="https://static.wixstatic.com/media/9b42b7_f0d38a2506ab4bafba6c93c6c6e251ac~mv2.png/v1/fit/w_2500,h_1330,al_c/9b42b7_f0d38a2506ab4bafba6c93c6c6e251ac~mv2.png" alt="DBJJL" border="0">
   <p>What started as a passion project quickly turned into a growing community. 
