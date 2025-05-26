@@ -17,7 +17,7 @@
 </div>
 
         <div class="project">
-  <h3>EEG signal classification with wavenet</h3>
+  <h3>DBJJL</h3>
   <div class="project-content">
     <img src="https://i.ibb.co/ygsx9SW/Schermafbeelding-2024-11-18-200146.png" alt="Schermafbeelding-2024-11-18-200146" border="0">
     <p>Developed advanced neural networks to classify EEG signals, achieving high accuracy and supporting decision-making 
@@ -31,7 +31,7 @@
 <div class="project">
   <h3>Trauma severity classifier</h3>
   <div class="project-content">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
+  <img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
     <p>I have worked on a project to classify trauma severity using EEG and other physiological data. Using LASSO - and random forrest regression.
         The goal of this project was not getting a the best model.  Since there are better classifying techniques for that.
         But to sharpen my mathematical understanding of regression and classifying techniques. </p>
@@ -44,7 +44,7 @@
 <div class="project">
   <h3>EEG-based comprehension prediction</h3>
   <div class="project-content">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Vc0F43DN/Screenshot-2025-05-26-at-12-24-25-To-understand-or-not-to-understand-REPORT-CVL-2440678-EEG-7-CS074.png" alt="Screenshot-2025-05-26-at-12-24-25-To-understand-or-not-to-understand-REPORT-CVL-2440678-EEG-7-CS074-" border="0"></a>
+  <img src="https://i.ibb.co/Vc0F43DN/Screenshot-2025-05-26-at-12-24-25-To-understand-or-not-to-understand-REPORT-CVL-2440678-EEG-7-CS074.png" alt="Screenshot-2025-05-26-at-12-24-25-To-understand-or-not-to-understand-REPORT-CVL-2440678-EEG-7-CS074-" border="0">
   <p>This project explored whether EEG signals can predict how well subjects understand educational videos. 
       Using 14-channel EEG data and self-reported comprehension scores, I applied both supervised and unsupervised learning methods.
       Support Vector Machines achieved up to 88.66% balanced accuracy. PCA and K-Means revealed underlying patterns 
@@ -56,14 +56,14 @@
 <div class="project">
   <h3>EEG-based comprehension prediction</h3>
   <div class="project-content">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/Vc0F43DN/Screenshot-2025-05-26-at-12-24-25-To-understand-or-not-to-understand-REPORT-CVL-2440678-EEG-7-CS074.png" alt="Screenshot-2025-05-26-at-12-24-25-To-understand-or-not-to-understand-REPORT-CVL-2440678-EEG-7-CS074-" border="0"></a>
+  <img src="https://static.wixstatic.com/media/9b42b7_f0d38a2506ab4bafba6c93c6c6e251ac~mv2.png/v1/fit/w_2500,h_1330,al_c/9b42b7_f0d38a2506ab4bafba6c93c6c6e251ac~mv2.png" alt="DBJJL" border="0">
   <p>What started as a passion project quickly turned into a growing community. 
     I founded the Dutch Brazilian Jiu Jitsu League to bring more structure and consistency to local BJJ competitions. 
     Running the league taught me a lot about organizing events, managing logistics, getting sponsors and
     building something from the ground up. 
     It was one of the most rewarding things I did outside of academia — driven by a love for the sport and the desire to give back.
   The league is currently paused, as I moved to Australia </p>
-      <p><a href="https://www.instagram.com/dbjjl010/" target="_blank">View on Instagram</a></p>
+      <p><a href="https://www.dbjjl.nl/" target="_blank">View on our site</a></p>
   </div>
 </div>
 
