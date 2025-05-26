@@ -11,7 +11,10 @@
       <li>
   <strong>University of Wolverhampton</strong> — MSc in Artificial Intelligence (current)<br>
   <em>Feb 2024 – Present</em>
-  <div class="course-grades">
+  <strong>Current Grade Average (completed modules):</strong> 73.1<br>
+  <button onclick="toggleGrades()" class="toggle-button">Show Grades</button>
+
+  <div id="grades-section" style="display: none; margin-top: 1em;">
     <table>
       <thead>
         <tr>
@@ -33,6 +36,12 @@
         <tr><td>Dissertation</td><td><em>In Progress</em></td></tr>
       </tbody>
     </table>
+    <p><small><strong>Expected dissertation completion:</strong> December 8, 2025<br>
+    <strong>Expected graduation:</strong> March 30, 2026</small></p>
+  </div>
+</li>
+
+
     <p><small><strong>Expected dissertation completion:</strong> December 8, 2025<br>
     <strong>Expected graduation:</strong> March 30, 2026</small></p>
   </div>
