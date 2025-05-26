@@ -19,7 +19,8 @@
             <li>Bachelor of Arts: Sport Science</li>
             <li>Total ECTS credits: 240</li>
             <li>Weighted Average Mark (WAM): 7 / 3.3 / H2A</li>
-            <li>Thesis: <em>The role of protein intake in the bone health of former professional cyclists</em> — Grade: 8 / 4.0 / Distinction</li>
+            <li>Thesis: <em>Does daylight and exercise overclock the brain?</em> — Grade: 7 / 3.3 / Merit</li>
+            <li>Honour thesis: <em>The role of protein intake in the bone health of former professional cyclists</em> — Grade: 8 / 4.0 / Distinction</li>
             
           </ul>
         </li>
@@ -28,7 +29,7 @@
           <em>Feb 2021 – June 2021</em>
           <ul>
             <li>Minor: Cognitive Science</li>
-            <li></li>Thesis: <em>Does daylight and exercise overclock the brain?</em> — Grade: 7 / 3.3 / Credit</li>
+            
           </ul>
         </li>
       </ul>
