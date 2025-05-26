@@ -7,7 +7,7 @@
 
     <div class="achievements-item">
       <h3>Education</h3>
-      <p><strong>University of Wolverhampton</strong> — MSc in Artificial Intelligence (current)</p>
+      <p><strong>University of Wolverhampton, England</strong> — MSc in Artificial Intelligence (current)</p>
       <p><em>Feb 2024 – Present</em></p>
       <p><strong>Current Grade Average (completed modules):</strong> 73.1</p>
       <button onclick="toggleGrades()" class="toggle-button">Show Grades</button>
@@ -40,17 +40,22 @@
     </div>
 
     <div class="achievements-item">
-      <p><strong>University of Applied Sciences Arnhem and Nijmegen, The Netherlands</strong></p>
-      <p><em>Sept 2019 – Sept 2023</em></p>
-      <ul>
-        <li>Bachelor of Arts: Sport Science</li>
-        <li>Total ECTS credits: 240</li>
-        <li>Weighted Average Mark (WAM): 7 / 3.3 / H2A</li>
-        <li>Third year thesis: <em>The Role of Protein Intake in the Bone Health of Former Professional Cyclists</em> — Grade: 8 / 4.0 / Distinction</li>
-        <li>Honour thesis: <em>Does Daylight and Exercise Overclock the Brain?</em> — Grade: 7 / 3.3 / Credit</li>
-        <li>Minor: Cognitive Science, Utrecht University, The Netherlands</li>
-      </ul>
-    </div>
+  <p><strong>University of Applied Sciences Arnhem and Nijmegen, The Netherlands</strong> — BA in Sport Science</p>
+  <p><em>Sept 2019 – Sept 2023</em></p>
+  <p><strong>Weighted Average Mark (WAM):</strong> 7 / 3.3 / H2A</p>
+  <ul>
+    <li>Total ECTS credits: 240</li>
+  </ul>
+  <button onclick="toggleThesis()" class="toggle-button">Show Thesis & Minor</button>
+
+  <div id="thesis-section" style="display: none; margin-top: 1em;">
+    <ul>
+      <li>Third year thesis: <em>The Role of Protein Intake in the Bone Health of Former Professional Cyclists</em> — Grade: 8 / 4.0 / Distinction</li>
+      <li>Honour thesis: <em>Does Daylight and Exercise Overclock the Brain?</em> — Grade: 7 / 3.3 / Merit</li>
+      <li>Minor: <em>Cognitive Science, Utrecht University, The Netherlands</em> — Grade: 7.4 / 3.5 / Distinction</li>
+    </ul>
+  </div>
+</div>
 
     <div class="achievements-item">
       <h3>Internship</h3>
@@ -94,5 +99,20 @@
     }
   }
 </script>
+
+<script>
+  function toggleThesis() {
+    const thesisSection = document.getElementById('thesis-section');
+    const button = event.target;
+    if (thesisSection.style.display === 'none') {
+      thesisSection.style.display = 'block';
+      button.textContent = 'Hide Thesis & Minor';
+    } else {
+      thesisSection.style.display = 'none';
+      button.textContent = 'Show Thesis & Minor';
+    }
+  }
+</script>
+
 
 <?php include 'footer.php'; ?>
