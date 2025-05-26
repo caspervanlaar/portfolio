@@ -112,29 +112,90 @@ button {
     height: auto;
   }
 
-  .course-grades table {
+  .achievements-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1em;
+    font-family: Arial, sans-serif;
+    color: #222;
+  }
+  
+  .achievements h2 {
+    text-align: center;
+    margin-bottom: 1.5em;
+    font-weight: 700;
+    font-size: 2rem;
+  }
+  
+  .achievements-item {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 1.25em 1.5em;
+    margin-bottom: 1.75em;
+    box-shadow: 0 2px 6px rgb(0 0 0 / 0.1);
+  }
+  
+  .achievements-item h3 {
+    margin-top: 0;
+    font-size: 1.4rem;
+    border-bottom: 2px solid #007acc;
+    padding-bottom: 0.25em;
+    margin-bottom: 1em;
+  }
+  
+  .achievements-item strong {
+    font-weight: 600;
+    color: #005ea2;
+  }
+  
+  .achievements-item em {
+    font-style: italic;
+    color: #555;
+  }
+  
+  ul {
+    margin: 0.5em 0 0 1.5em;
+    padding-left: 0;
+  }
+  
+  li {
+    margin-bottom: 0.3em;
+  }
+  
+  table {
     width: 100%;
     border-collapse: collapse;
-    margin-top: 10px;
+    margin-top: 0.75em;
   }
-  .course-grades th, .course-grades td {
-    padding: 8px;
-    border-bottom: 1px solid #ccc;
+  
+  table th,
+  table td {
+    border: 1px solid #ddd;
+    padding: 0.4em 0.6em;
     text-align: left;
   }
-  .course-grades em {
-    color: #666;
+  
+  table th {
+    background-color: #007acc;
+    color: white;
   }
-
+  
   .toggle-button {
     margin-top: 0.5em;
-    background-color: #eee;
-    border: 1px solid #ccc;
-    padding: 6px 12px;
-    cursor: pointer;
+    padding: 0.35em 0.8em;
+    border: none;
+    background-color: #007acc;
+    color: white;
     border-radius: 4px;
-    font-size: 14px;
+    cursor: pointer;
+    font-size: 0.9rem;
   }
+  
   .toggle-button:hover {
-    background-color: #ddd;
+    background-color: #005ea2;
   }
+  
+  small {
+    color: #666;
+  }
+  
