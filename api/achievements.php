@@ -37,7 +37,33 @@
         <p><small><strong>Expected dissertation date:</strong> December 8, 2025<br>
           <strong>Expected graduation:</strong> March 30, 2026</small></p>
       </div>
+      <div id="grades-section" style="display: none;">
+        <table>
+          <thead>
+            <tr>
+              <th>Course</th>
+              <th>Grade</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>Data Science (7CS078)</td><td><em>In Progress</em></td></tr>
+            <tr><td>Data Visualisation (7CS079)</td><td><em>In Progress</em></td></tr>
+            <tr><td>Deep Machine Learning (7CS082)</td><td>82</td></tr>
+            <tr><td>Intelligent Agents (7CS083)</td><td>76.5</td></tr>
+            <tr><td>Applying Artificial Intelligence (7CS084)</td><td>75</td></tr>
+            <tr><td>Concepts & Technologies of AI (7CS070)</td><td>68</td></tr>
+            <tr><td>Virtualisation and Cloud Computing (7CS071)</td><td>P</td></tr>
+            <tr><td>Data Mining & Informatics (7CS074)</td><td>67</td></tr>
+            <tr><td>Research Methods (7CS075)</td><td><em>In Progress</em></td></tr>
+            <tr><td>Project Management (7CS076)</td><td><em>In Progress</em></td></tr>
+            <tr><td>Dissertation</td><td><em>In Progress</em></td></tr>
+          </tbody>
+        </table>
+        <p><small><strong>Expected dissertation date:</strong> December 8, 2025<br>
+          <strong>Expected graduation:</strong> March 30, 2026</small></p>
+      </div>
     </div>
+
 
     <div class="achievements-item">
   <p><strong>University of Applied Sciences Arnhem and Nijmegen, The Netherlands</strong> — BA in Sport Science</p>
@@ -59,6 +85,8 @@
 
     <div class="achievements-item">
       <h3>Internship</h3>
+      <p><strong>Erasmus MC, Neuroscience Department, The Netherlands</strong></p>
+      <p><em>Sept 2021 – Sept 2023</em></p>
       <p><strong>Erasmus MC, Neuroscience Department, The Netherlands</strong></p>
       <p><em>Sept 2021 – Sept 2023</em></p>
       <p>Two-year internship focused on behavioral neuroscience and EEG data analysis.</p>
