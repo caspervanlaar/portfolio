@@ -19,7 +19,7 @@
   <div class="project-content">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
     <p>I’m working on a project to classify trauma severity using EEG and other physiological data. Using LASSO - and random forrest regression.
-        The goal of this project was not getting a the bestmodel.  Since there are better classifying techniques for that.
+        The goal of this project was not getting a the best model.  Since there are better classifying techniques for that.
         But to sharpen my mathematical understanding of regression and classifying techniques. </p>
     </div>
 </div>
