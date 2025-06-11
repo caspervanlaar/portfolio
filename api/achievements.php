@@ -85,8 +85,9 @@
 
     <div class="achievements-item">
       <h3>Internship</h3>
-      <p><strong>Erasmus MC, Neuroscience Department, The Netherlands</strong></p>
-      <p><em>Sept 2021 – Sept 2023</em></p>
+      <p><strong>Seneca, intern sport and exercise nutrition research team, the  Netherlands.</strong></p>
+      <p><em>Sept 2020 – Feb 2021</em></p>
+      <p>Developed e-learning on sports nutrition, personalized cyclist plans, managed child motor testing.</p>
       <p><strong>Erasmus MC, Neuroscience Department, The Netherlands</strong></p>
       <p><em>Sept 2021 – Sept 2023</em></p>
       <p>Two-year internship focused on behavioral neuroscience and EEG data analysis.</p>
