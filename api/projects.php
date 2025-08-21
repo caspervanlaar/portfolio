@@ -17,11 +17,10 @@
 </div>
 
         <div class="project">
-  <h3>DBJJL</h3>
+  <h3>Wavenet</h3>
   <div class="project-content">
     <img src="https://i.ibb.co/ygsx9SW/Schermafbeelding-2024-11-18-200146.png" alt="Schermafbeelding-2024-11-18-200146" border="0">
-    <p>Developed advanced neural networks to classify EEG signals, achieving high accuracy and supporting decision-making 
-      research in neuroscience. Stay tuned for the publication.</p>
+    <p>Developed an advanced neural networks called wavenet to classify EEG signals, achieving high accuracy. Stay tuned for the publication.</p>
     <p><a href="https://github.com/caspervanlaar/EEG_wavenet" target="_blank">View on GitHub</a></p>
   </div>
 </div>     
