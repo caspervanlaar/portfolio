@@ -20,8 +20,7 @@
             I’m particularly interested in understanding brain activity during behavioral tasks, as well as the neurophysiological underpinnings 
             of consciousness and decision-making. To advance this understanding, I’ve been working on building machine learning pipelines 
             capable of integrating electrophysiological data, such as EEG and Neuropixels recordings, with behavioral insights. Recently, 
-            I developed a wavenet model that achieves high accuracy in classifying trauma severity based on EEG bands, biometric data, 
-            and phenotype indicators—a step forward in bridging AI with clinical and behavioral neuroscience.
+            I developed a wavenet model that achieves high accuracy in classifying trauma severity based on EEG.
         <p>
         <p>
             In addition to my research, I’m deeply committed to interdisciplinary exploration. 
