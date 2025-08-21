@@ -96,6 +96,7 @@
     <div class="achievements-item">
       <h3>Certifications & Courses</h3>
       <ul>
+        <li>Computational Neuroscience — Neuromatch
         <li>Data Science Professional Certificate — IBM (Coursera)</li>
         <li>DNA Decoded — McMaster University (Coursera)</li>
         <li>Medical Neuroscience — Duke University (Coursera)</li>
