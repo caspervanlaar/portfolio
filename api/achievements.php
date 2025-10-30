@@ -29,8 +29,8 @@
             <tr><td>Concepts & Technologies of AI (7CS070)</td><td>68</td></tr>
             <tr><td>Virtualisation and Cloud Computing (7CS071)</td><td>P</td></tr>
             <tr><td>Data Mining & Informatics (7CS074)</td><td>67</td></tr>
-            <tr><td>Research Methods (7CS075)</td><td><em>In Progress</em></td></tr>
-            <tr><td>Project Management (7CS076)</td><td><em>In Progress</em></td></tr>
+            <tr><td>Research Methods (7CS075)</td><td><em>67</em></td></tr>
+            <tr><td>Project Management (7CS076)</td><td><em>50</em></td></tr>
             <tr><td>Dissertation</td><td><em>In Progress</em></td></tr>
           </tbody>
         </table>
