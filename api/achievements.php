@@ -9,7 +9,7 @@
       <h3>Education</h3>
       <p><strong>University of Wolverhampton, England</strong> — MSc in Artificial Intelligence (current)</p>
       <p><em>Feb 2024 – Present</em></p>
-      <p><strong>Current Grade Average (completed modules):</strong> 73.1</p>
+      <p><strong>Current Grade Average (completed modules):</strong> 69.4</p>
       <button onclick="toggleGrades()" class="toggle-button">Show Grades</button>
 
       <div id="grades-section" style="display: none;">
@@ -54,8 +54,8 @@
             <tr><td>Concepts & Technologies of AI (7CS070)</td><td>68</td></tr>
             <tr><td>Virtualisation and Cloud Computing (7CS071)</td><td>P</td></tr>
             <tr><td>Data Mining & Informatics (7CS074)</td><td>67</td></tr>
-            <tr><td>Research Methods (7CS075)</td><td><em>In Progress</em></td></tr>
-            <tr><td>Project Management (7CS076)</td><td><em>In Progress</em></td></tr>
+            <tr><td>Research Methods (7CS075)</td><td><em>67</em></td></tr>
+            <tr><td>Project Management (7CS076)</td><td><em>50</em></td></tr>
             <tr><td>Dissertation</td><td><em>In Progress</em></td></tr>
           </tbody>
         </table>
