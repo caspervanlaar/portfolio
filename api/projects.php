@@ -30,7 +30,7 @@ It outperformed earlier CNN and LSTM approaches, held its ground against a Tempo
 
 
 <div class="project">
-  <h3>Brain regionident ification</h3>
+  <h3>Brain region identification</h3>
   <div class="project-content">
   <img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
     <p>This project tackles a long-standing issue in systems neuroscience: figuring out where Neuropixels recordings come from without relying on post-hoc histology. Instead of tracking probe locations through tissue and atlases, I built a data-driven method that classifies brain regions directly from electrophysiological activity.
