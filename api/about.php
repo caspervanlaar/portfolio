@@ -5,37 +5,25 @@
         I enjoy <a href="https://www.instagram.com/reel/CrYlL6vO93Q/">Brazilian Jiu-Jitsu</a>, reading 
         <a href="https://www.goodreads.com/user/show/177170325-casper-david"> science fiction and non fiction books </a>. 
     
-        <p>
-            I’m a Msc student in computer science and artificial intelligence with a strong focus on the intersection of AI, neuroscience, and consciousness studies. 
-            My academic journey began as a bachelor in Sport Science at HAN University in the Netherlands to a Master’s. 
-            Where I discovered my love for statistics, programming and neuroscience.
-            During my last two years at the HAN I had the privilege of joining the department of neuroscience at Erasmus MC at the cerebro-cerebellar Communication lab as an intern.
-            In those two years of experimental and behavioural neuroscience I was taught the ins and outs of 
-            experimental neuroscience and programming data analytic pipelines. 
-            Aftwards I made the decision to pursue my master degree in computer science and Artificial Intelligence at the University of Wolverhampton
-            This foundation allows me to explore the complex relationships between brain function and behavior with machine learning.
-        <p>
-        <p> 
-            My current research revolves around EEG signal analysis and the development of machine learning algorithms and neural netoworks for neural data classification. 
-            I’m particularly interested in understanding brain activity during behavioral tasks, as well as the neurophysiological underpinnings 
-            of consciousness and decision-making. To advance this understanding, I’ve been working on building machine learning pipelines 
-            capable of integrating electrophysiological data, such as EEG and Neuropixels recordings, with behavioral insights. Recently, 
-            I developed a wavenet model that achieves high accuracy in classifying trauma severity based on EEG.
-        <p>
-        <p>
-            In addition to my research, I’m deeply committed to interdisciplinary exploration. 
-            I’m drawn to areas like (theoretical) physics and philosophy of mind, and I aspire to integrate AI, neuroscience, and mathematics to tackle fundamental questions about consciousness. 
-            At the moment I am studying remotely from Australia and I’m eager to build collaborations in the neuroscience community 
-            and contribute meaningfully to the field. 
-            Ultimately, I aim to push the boundaries of AI and neuroscience to deepen our understanding of the mind.</p>
-        <p>
+         <p>
+    I’m Casper van Laar — a neuroscience‑driven AI researcher. My passion lies at the intersection of neural data, machine learning, and the quest to understand how brains encode cognition, perception, and behaviour.  
+    I build analysis pipelines and deep‑learning models to decode complex electrophysiological data (EEG, Neuropixels) and explore neural dynamics underlying decision‑making, learning, and conscious processes.
+  </p>
 
-            <h3>Academic Interests</h3>
-        <ul>
-            <li>Consciousness and Philosophy of Mind</li>
-            <li>Machine Learning for EEG Analysis and Neuroscience</li>
-            <li>Interdisciplinary Research in Neuroscience</li>
-        </ul>
+  <p>
+    Over the years I’ve worked on projects ranging from raw‑signal EEG classification with WaveNet models, to spike sorting and region‑identification from Neuropixels recordings, and decoding cognitive states with EEG-based predictors. I combine classical signal‑processing techniques with modern neural network architectures — always with an eye on interpretability and methodological clarity.  
+    My technical toolkit includes spike and waveform extraction, custom preprocessing pipelines, statistical modeling, and deep learning (CNNs, TCNs, Transformers). I aim not only for performance, but for reproducible and transparent analysis workflows.
+  </p>
+
+  <p>
+    What drives me is more than just “better models.” I want to contribute to a broader understanding of how neural activity relates to cognition, behaviour, and conscious experience. I believe that a mix of rigorous experimental neuroscience, computational modeling, and a strong mathematical foundation will be essential to approach these deep questions.  
+    In the medium term, I’m interested in exploring spiking‑neural‑network models inspired by biological data, contributing to open‑source neuroscience tools, and collaborating on experiments that bridge AI and real neural biology.
+  </p>
+
+  <p>
+    Outside the lab I enjoy Brazilian Jiu Jitsu and physical training. A reminder that brains don’t exist in a vacuum. Movement, coordination and embodied experience often inspire how I think about neural dynamics, learning, and plasticity.  
+    If you share an interest in computational neuroscience, AI‑driven neural decoding, or experimental brain research — or want to talk math, data, or BJJ — I’m always open to collaboration or conversation.
+  </p>
 
 </p></section>
 </main>
