@@ -30,7 +30,7 @@ It outperformed earlier CNN and LSTM approaches, held its ground against a Tempo
 
 
 <div class="project">
-  <h3>Brain regionidentification</h3>
+  <h3>Brain regionident ification</h3>
   <div class="project-content">
   <img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
     <p>This project tackles a long-standing issue in systems neuroscience: figuring out where Neuropixels recordings come from without relying on post-hoc histology. Instead of tracking probe locations through tissue and atlases, I built a data-driven method that classifies brain regions directly from electrophysiological activity.
@@ -38,7 +38,7 @@ It outperformed earlier CNN and LSTM approaches, held its ground against a Tempo
 Using the Allen Brain Observatory dataset, I compared classical models with several deep learning architectures trained on spike-train features and PSTHs. Traditional approaches collapsed across animals (accuracy <0.19), while deep models—especially a Transformer—learned reproducible neural signatures across mice (accuracy 0.35, AUC 0.86). Thalamic regions were the most identifiable.
 
 The results show that different brain areas carry their own electrophysiological “fingerprints,” making it possible to infer anatomical labels purely from neural responses. This approach could eventually reduce dependence on histology and support less invasive localization strategies in neuroscience research. </p>
-        <p><a href="https://github.com/caspervanlaar/ML_project" target="_blank">View the report</a></p>
+        <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_2440678_7CS078UZ1_Data%20Science.pdf" target="_blank">View the report</a></p>
     </div>
 </div>
         
@@ -46,10 +46,11 @@ The results show that different brain areas carry their own electrophysiological
   <h3>Trauma severity classifier</h3>
   <div class="project-content">
   <img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
-    <p>I have worked on a project to classify trauma severity using EEG and other physiological data. Using LASSO - and random forrest regression.
+    <p>I have worked on a project to classify trauma severity using EEG and other physiological data. Using various statistical and machine learning methods.
         The goal of this project was not getting a the best model.  Since there are better classifying techniques for that.
         But to sharpen my mathematical understanding of regression and classifying techniques. </p>
-        <p><a href="https://github.com/caspervanlaar/ML_project" target="_blank">View on GitHub</a></p>
+        <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CASPER_VAN_LAAR_7CS070UZ3_CLASSIFICATION_REPORT.pdf" target="_blank">View classification report</a></p>
+       <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CASPER_VAN_LAAR_7CS070UZ3_REGRESSION_REPORT.pdf" target="_blank">View regression report</a></p>
     </div>
 </div>
 
@@ -63,7 +64,7 @@ The results show that different brain areas carry their own electrophysiological
       Using 14-channel EEG data and self-reported comprehension scores, I applied both supervised and unsupervised learning methods.
       Support Vector Machines achieved up to 88.66% balanced accuracy. PCA and K-Means revealed underlying patterns 
       linked to comprehension. The findings highlight EEG’s potential for adaptive learning systems and real-time cognitive monitoring. </p>
-      <p><a href="https://github.com/caspervanlaar/DATA_INFO" target="_blank">View on GitHub</a></p>
+      <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/REPORT_CVL_2440678_EEG_7CS074_UZ3.pdf" target="_blank">View report</a></p>
   </div>
 </div>
 
