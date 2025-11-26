@@ -20,13 +20,28 @@
   <h3>Wavenet</h3>
   <div class="project-content">
     <img src="https://i.ibb.co/ygsx9SW/Schermafbeelding-2024-11-18-200146.png" alt="Schermafbeelding-2024-11-18-200146" border="0">
-    <p>Trained a wavenet to classify EEG signals, achieving high accuracy.<a href="https://arxiv.org/abs/2510.15947" target="_blank">View pre print on arxiv</a> </p>
-    <p><a href="https://github.com/caspervanlaar/EEG_wavenet" target="_blank">View on GitHub</a></p>
+    <p>Trained a WaveNet model to sort EEG segments into physiological, pathological, artifact, and noise categories using a large annotated dataset from Mayo Clinic and St. Anne’s University Hospital. The model captures both short-range and long-range temporal structure through dilated causal convolutions and residual paths, which turned out to be a strong match for raw EEG.
+
+It outperformed earlier CNN and LSTM approaches, held its ground against a Temporal Convolutional Network baseline, and showed particularly sharp performance on noise and artifact detection. Some confusion between physiological and pathological classes remains, which mirrors the clinical ambiguity seen in practice. The pipeline includes dynamic dataset partitioning, normalization, and other steps aimed at making the model generalize rather than memorize.
+        <a href="https://arxiv.org/abs/2510.15947" target="_blank">View pre print on arxiv</a> </p>
+    
   </div>
-</div>     
+</div>             
+
+
+<div class="project">
+  <h3>Brain regionidentification</h3>
+  <div class="project-content">
+  <img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
+    <p>This project tackles a long-standing issue in systems neuroscience: figuring out where Neuropixels recordings come from without relying on post-hoc histology. Instead of tracking probe locations through tissue and atlases, I built a data-driven method that classifies brain regions directly from electrophysiological activity.
+
+Using the Allen Brain Observatory dataset, I compared classical models with several deep learning architectures trained on spike-train features and PSTHs. Traditional approaches collapsed across animals (accuracy <0.19), while deep models—especially a Transformer—learned reproducible neural signatures across mice (accuracy 0.35, AUC 0.86). Thalamic regions were the most identifiable.
+
+The results show that different brain areas carry their own electrophysiological “fingerprints,” making it possible to infer anatomical labels purely from neural responses. This approach could eventually reduce dependence on histology and support less invasive localization strategies in neuroscience research. </p>
+        <p><a href="https://github.com/caspervanlaar/ML_project" target="_blank">View the report</a></p>
+    </div>
+</div>
         
-
-
 <div class="project">
   <h3>Trauma severity classifier</h3>
   <div class="project-content">
@@ -62,7 +77,7 @@
     building something from the ground up. 
     It was one of the most rewarding things I did outside of academia — driven by a love for the sport and the desire to give back.
   The league is currently paused, as I moved to Australia </p>
-      <p><a href="https://www.dbjjl.nl/" target="_blank">View on our site</a></p>
+      
   </div>
 </div>
 
