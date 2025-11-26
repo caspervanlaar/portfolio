@@ -6,13 +6,18 @@
         <a href="https://www.goodreads.com/user/show/177170325-casper-david"> science fiction and non fiction books </a>. 
     
          <p>
-    I’m Casper van Laar, a neuroscience‑driven AI researcher. My passion lies at the intersection of neural data, machine learning, and the quest to understand how brains encode cognition, perception, and behaviour.  
-    I build analysis pipelines and deep‑learning models to decode complex electrophysiological data (EEG, Neuropixels) and explore neural dynamics underlying decision‑making, learning, and conscious processes.
+    I’m Casper van Laar, a neuroscience‑driven AI researcher. My passion lies at the intersection of neural data, machine learning, and the quest to understand how brains encode cognition, perception, 
+             and behaviour.  
+    I build analysis pipelines and deep‑learning models to decode complex electrophysiological data (EEG, Neuropixels) 
+             and explore neural dynamics underlying decision‑making, learning, and conscious processes.
   </p>
 
   <p>
-    Over the years I’ve worked on projects ranging from raw‑signal EEG classification with WaveNet models, to spike sorting and region‑identification from Neuropixels recordings, and decoding cognitive states with EEG-based predictors. I combine classical signal‑processing techniques with modern neural network architectures — always with an eye on interpretability and methodological clarity.  
-    My technical toolkit includes spike and waveform extraction, custom preprocessing pipelines, statistical modeling, and deep learning (CNNs, TCNs, Transformers). I aim not only for performance, but for reproducible and transparent analysis workflows.
+    Over the years I’ve worked on projects ranging from raw‑signal EEG classification with WaveNet models, to spike sorting and region‑identification from Neuropixels recordings, 
+      and decoding cognitive states with EEG-based predictors. I combine classical signal‑processing techniques with modern neural network architectures,
+      always with an eye on interpretability and methodological clarity.  
+    My technical toolkit includes spike and waveform extraction, custom preprocessing pipelines, statistical modeling, and deep learning (CNNs, TCNs, Transformers). 
+      I aim not only for performance, but for reproducible and transparent analysis workflows.
   </p>
 
   <p>
