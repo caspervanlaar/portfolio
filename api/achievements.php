@@ -9,7 +9,7 @@
       <h3>Education</h3>
       <p><strong>University of Wolverhampton, England</strong> — MSc in Artificial Intelligence (current)</p>
       <p><em>Feb 2024 – Present</em></p>
-      <p><strong>Current Grade Average (completed modules):</strong> 69.4</p>
+      <p><strong>Current Grade Average (completed modules):</strong> 69.3</p>
       <button onclick="toggleGrades()" class="toggle-button">Show Grades</button>
 
       <div id="grades-section" style="display: none;">
@@ -21,7 +21,7 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td>Data Science (7CS078)</td><td><em>In Progress</em></td></tr>
+            <tr><td>Data Science (7CS078)</td><td><em>69</em></td></tr>
             <tr><td>Data Visualisation (7CS079)</td><td><em>In Progress</em></td></tr>
             <tr><td>Deep Machine Learning (7CS082)</td><td>82</td></tr>
             <tr><td>Intelligent Agents (7CS083)</td><td>76.5</td></tr>
@@ -34,8 +34,8 @@
             <tr><td>Dissertation</td><td><em>In Progress</em></td></tr>
           </tbody>
         </table>
-        <p><small><strong>Expected dissertation date:</strong> December 8, 2025<br>
-          <strong>Expected graduation:</strong> March 30, 2026</small></p>
+        <p><small><strong>Expected dissertation date:</strong> January 13, 2026<br>
+          <strong>Expected graduation:</strong> April 13, 2026</small></p>
       </div>
       <div id="grades-section" style="display: none;">
         <table>
@@ -46,7 +46,7 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td>Data Science (7CS078)</td><td><em>In Progress</em></td></tr>
+            <tr><td>Data Science (7CS078)</td><td><em>69</em></td></tr>
             <tr><td>Data Visualisation (7CS079)</td><td><em>In Progress</em></td></tr>
             <tr><td>Deep Machine Learning (7CS082)</td><td>82</td></tr>
             <tr><td>Intelligent Agents (7CS083)</td><td>76.5</td></tr>
@@ -59,8 +59,8 @@
             <tr><td>Dissertation</td><td><em>In Progress</em></td></tr>
           </tbody>
         </table>
-        <p><small><strong>Expected dissertation date:</strong> December 8, 2025<br>
-          <strong>Expected graduation:</strong> March 30, 2026</small></p>
+        <p><small><strong>Expected dissertation date:</strong> January 13, 2025<br>
+          <strong>Expected graduation:</strong> April 13, 2026</small></p>
       </div>
     </div>
 
@@ -108,7 +108,7 @@
     <div class="achievements-item">
       <h3>Languages & Skills</h3>
       <ul>
-        <li>Languages: Dutch (native), English (fluent), Spanish (moderate), German (moderate)</li>
+        <li>Languages: Dutch (native), English (fluent), Spanish (moderate), German (moderate), Italian (beginner)</li>
         <li>Programming: Python (good), MATLAB (good), Java (moderate), C# (moderate)</li>
       </ul>
     </div>
