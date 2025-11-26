@@ -31,8 +31,7 @@ It outperformed earlier CNN and LSTM approaches, held its ground against a Tempo
 
 <div class="project">
   <h3>Brain region identification</h3>
-  <div class="project-content">
-  <img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
+  <div class="project-content"> 
     <p>This project tackles a long-standing issue in systems neuroscience: figuring out where Neuropixels recordings come from without relying on post-hoc histology. Instead of tracking probe locations through tissue and atlases, I built a data-driven method that classifies brain regions directly from electrophysiological activity.
 
 Using the Allen Brain Observatory dataset, I compared classical models with several deep learning architectures trained on spike-train features and PSTHs. Traditional approaches collapsed across animals (accuracy <0.19), while deep models—especially a Transformer—learned reproducible neural signatures across mice (accuracy 0.35, AUC 0.86). Thalamic regions were the most identifiable.
