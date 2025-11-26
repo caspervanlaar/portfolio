@@ -37,8 +37,8 @@ It outperformed earlier CNN and LSTM approaches, held its ground against a Tempo
 
 Using the Allen Brain Observatory dataset, I compared classical models with several deep learning architectures trained on spike-train features and PSTHs. Traditional approaches collapsed across animals (accuracy <0.19), while deep models—especially a Transformer—learned reproducible neural signatures across mice (accuracy 0.35, AUC 0.86). Thalamic regions were the most identifiable.
 
-The results show that different brain areas carry their own electrophysiological “fingerprints,” making it possible to infer anatomical labels purely from neural responses. This approach could eventually reduce dependence on histology and support less invasive localization strategies in neuroscience research. </p>
-        <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_2440678_7CS078UZ1_Data%20Science.pdf" target="_blank">View the report</a></p>
+The results show that different brain areas carry their own electrophysiological “fingerprints,” making it possible to infer anatomical labels purely from neural responses. This approach could eventually reduce dependence on histology and support less invasive localization strategies in neuroscience research. 
+        <a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_2440678_7CS078UZ1_Data%20Science.pdf" target="_blank">View the report</a></p>
     </div>
 </div>
         
@@ -49,8 +49,8 @@ The results show that different brain areas carry their own electrophysiological
     <p>I have worked on a project to classify trauma severity using EEG and other physiological data. Using various statistical and machine learning methods.
         The goal of this project was not getting a the best model.  Since there are better classifying techniques for that.
         But to sharpen my mathematical understanding of regression and classifying techniques. </p>
-        <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CASPER_VAN_LAAR_7CS070UZ3_CLASSIFICATION_REPORT.pdf" target="_blank">View classification report</a></p>
-       <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CASPER_VAN_LAAR_7CS070UZ3_REGRESSION_REPORT.pdf" target="_blank">View regression report</a></p>
+        <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CASPER_VAN_LAAR_7CS070UZ3_CLASSIFICATION_REPORT.pdf" target="_blank">View classification report</a>
+       <a href="https://github.com/caspervanlaar/portfolio/blob/main/CASPER_VAN_LAAR_7CS070UZ3_REGRESSION_REPORT.pdf" target="_blank">View regression report</a></p>
     </div>
 </div>
 
@@ -63,8 +63,8 @@ The results show that different brain areas carry their own electrophysiological
   <p>This project explored whether EEG signals can predict how well subjects understand educational videos. 
       Using 14-channel EEG data and self-reported comprehension scores, I applied both supervised and unsupervised learning methods.
       Support Vector Machines achieved up to 88.66% balanced accuracy. PCA and K-Means revealed underlying patterns 
-      linked to comprehension. The findings highlight EEG’s potential for adaptive learning systems and real-time cognitive monitoring. </p>
-      <p><a href="https://github.com/caspervanlaar/portfolio/blob/main/REPORT_CVL_2440678_EEG_7CS074_UZ3.pdf" target="_blank">View report</a></p>
+      linked to comprehension. The findings highlight EEG’s potential for adaptive learning systems and real-time cognitive monitoring. 
+      <a href="https://github.com/caspervanlaar/portfolio/blob/main/REPORT_CVL_2440678_EEG_7CS074_UZ3.pdf" target="_blank">View report</a></p>
   </div>
 </div>
 
@@ -82,6 +82,17 @@ The results show that different brain areas carry their own electrophysiological
   </div>
 </div>
 
+
+    <div class="project">
+  <h3>Childern headcoach - absolute MMA</h3>
+  <div class="project-content">
+
+<p>I coach the kids’ BJJ program at Absolute MMA, emphasizing fundamental skills through a balance of implicit and explicit motor learning. 
+    Sessions combine technique, movement, and goal based situational drills, fostering both skill acquisition and cognitive engagement.
+    Watching kids develop coordination, confidence, and a genuine love for the sport makes this one of the most rewarding parts of my week.</p>
+      
+  </div>
+</div>
     </section>
 
     
