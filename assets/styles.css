@@ -41,9 +41,9 @@ button {
 
 .about-header-art {
     margin-left: 0.5rem;
-    width: 28px;          /* tiny accent */
+    width: 56px;          /* tiny accent */
     height: auto;
-    opacity: 0.65;
+    opacity: 0.85;
     image-rendering: pixelated;
     image-rendering: crisp-edges;
 
