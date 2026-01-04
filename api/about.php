@@ -1,18 +1,15 @@
 <?php include 'header.php'; ?>
 <main>
     <section class="about">
-  
-
-        <div class="about-header">
-    <h2>About Me</h2>
-
-    <img
-        src="https://raw.githubusercontent.com/caspervanlaar/portfolio/main/pixelartgit.png"
-        alt=""
-        aria-hidden="true"
-        class="about-header-art"
-    >
-</div>
+    <div class="about-header">
+        <h2>About Me</h2>
+        <img
+            src="https://raw.githubusercontent.com/caspervanlaar/portfolio/main/pixelartgit.png"
+            alt=""
+            aria-hidden="true"
+            class="about-header-art"
+        >
+    </div>
 
         
         I enjoy <a href="https://www.instagram.com/reel/CrYlL6vO93Q/">Brazilian Jiu-Jitsu</a>, reading 
