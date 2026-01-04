@@ -1,15 +1,19 @@
 <?php include 'header.php'; ?>
 <main>
     <section class="about">
-        <div class="pixel-art-bg">
+  
+
+        <div class="about-header">
+    <h2>About Me</h2>
+
     <img
         src="https://raw.githubusercontent.com/caspervanlaar/portfolio/main/pixelartgit.png"
         alt=""
         aria-hidden="true"
+        class="about-header-art"
     >
 </div>
 
-        <h2>About Me</h2>
         
         I enjoy <a href="https://www.instagram.com/reel/CrYlL6vO93Q/">Brazilian Jiu-Jitsu</a>, reading 
         <a href="https://www.goodreads.com/user/show/177170325-casper-david"> science fiction and non fiction books </a>. 
