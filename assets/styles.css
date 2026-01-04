@@ -29,6 +29,38 @@ button {
     cursor: pointer;
 }
 
+.about-header {
+    display: flex;
+    align-items: center;
+}
+
+.about-header h2 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.about-header-art {
+    margin-left: 0.5rem;
+    width: 28px;          /* tiny accent */
+    height: auto;
+    opacity: 0.65;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+
+    /* subtle fade into background */
+    -webkit-mask-image: radial-gradient(
+        ellipse at center,
+        rgba(0,0,0,0.9) 50%,
+        rgba(0,0,0,0) 100%
+    );
+    mask-image: radial-gradient(
+        ellipse at center,
+        rgba(0,0,0,0.9) 50%,
+        rgba(0,0,0,0) 100%
+    );
+}
+
+
 .intro-item {
     display: flex;
     flex-direction: column;
