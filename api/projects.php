@@ -9,10 +9,10 @@
   <h3>Current project</h3>
   <div class="project-content">
   <a href="https://th.bing.com/th/id/R.193be8fa5e287fb9d9168a273fda135c?rik=2hMIMhE3XajihA&riu=http%3a%2f%2fwww.kurzweilai.net%2fimages%2fNeuropixels-probe.jpg&ehk=tOV7kDjQCUYFv1Jz2t8aT5kBskaQerPjJbR4T0t%2fqJQ%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" target="_blank"><img src="https://th.bing.com/th/id/R.193be8fa5e287fb9d9168a273fda135c?rik=2hMIMhE3XajihA&riu=http%3a%2f%2fwww.kurzweilai.net%2fimages%2fNeuropixels-probe.jpg&ehk=tOV7kDjQCUYFv1Jz2t8aT5kBskaQerPjJbR4T0t%2fqJQ%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="Neuropixel Probe" border="0"></a>
-    <p>I’m currently at the early stages of my master thesis, developing a hybrid CNN-WaveNet model for classifying action 
-      potentials from Neuropixels recordings. The approach uses a Kilosort-inspired preprocessing pipeline 
-      and integrates explainability tools to better understand model decisions. The goal is to improve spike classification 
-      accuracy in noisy data and contribute to more interpretable neural decoding methods. </p>
+    <p>For my dissertation, I’m exploring neural networks inspired by the brain. Unlike standard AI, where signals are instantaneous, 
+        neurons in the brain influence each other over time, creating population-level patterns called local field potentials (LFPs).
+        In my work, neurons send wave-like, temporally extended signals that form a “field” in each layer, which then shapes the activity of other neurons.
+        I’m in the early stages, investigating how these field-like signals affect learning and network dynamics.</p>
   </div>
 </div>
 
@@ -83,7 +83,7 @@ The results show that different brain areas carry their own electrophysiological
 
 
     <div class="project">
-  <h3>Childern headcoach - absolute MMA</h3>
+  <h3>Children headcoach - absolute MMA</h3>
   <div class="project-content">
 
 <p>I coach the kids’ BJJ program at Absolute MMA, emphasizing fundamental skills through a balance of implicit and explicit motor learning. 
