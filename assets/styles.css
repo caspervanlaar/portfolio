@@ -125,24 +125,27 @@ button {
 }
 
 .project {
-    margin-bottom: 20px; /* Add spacing between projects */
-    padding: 20px; /* Add padding to the project container */
-    border: 1px solid #ccc; /* Add a border around the project */
-    border-radius: 5px; /* Add rounded corners */
-    background-color: #f8f8f8; /* Add a background color */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
-  }
-  
-  .project-content {
-    display: flex; /* Use flexbox for side-by-side layout */
-    align-items: center; /* Center content vertically */
-    gap: 10px; /* Optional: Add spacing between image and text */
-  }
-  
-  .project-content img {
-    max-width: 150px; /* Adjust image size as needed */
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Main project body layout */
+.project-content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.project-content img {
+    max-width: 150px;
     height: auto;
-  }
+}
+
+/* Project header: title + small icon */
 .project-header {
     display: flex;
     align-items: center;
@@ -155,8 +158,10 @@ button {
     font-size: 1.4rem;
 }
 
+/* Header icon — hard override so it never scales */
 .project-header img {
-    width: 24px;          /* icon scale */
+    width: 24px;
+    max-width: 24px;
     height: auto;
     opacity: 0.75;
 
