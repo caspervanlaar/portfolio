@@ -2,12 +2,7 @@
 <main>
     <section class="about">
     <div class="about-header">
-        <img
-            src="https://raw.githubusercontent.com/caspervanlaar/portfolio/main/pixelartgit.png"
-            alt=""
-            aria-hidden="true"
-            class="about-header-art"
-        >
+       
         <h2>About Me</h2>
         
     </div>
