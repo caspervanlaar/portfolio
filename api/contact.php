@@ -16,7 +16,7 @@
         <textarea id="message" name="message" required></textarea>
 
         <!-- Optional: redirect after submit -->
-        <input type="hidden" name="_next" value="https://caspervanlaar.com/thank-you.html">
+        <input type="hidden" name="_next" value="/thank-you.php">
 
         <!-- Optional: prevent spam -->
         <input type="hidden" name="_captcha" value="true">
