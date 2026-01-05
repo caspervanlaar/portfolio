@@ -114,7 +114,7 @@
       <h3>Languages & Skills</h3>
       <ul>
         <li>Languages: Dutch (native), English (fluent), Spanish (moderate), German (moderate), Italian (basic)</li>
-        <li>Programming: Python, MATLAB, Java, C#</li>
+        <li>Programming: Python, MATLAB, C#, php</li>
       </ul>
     </div>
 
