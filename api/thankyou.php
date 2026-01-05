@@ -1,13 +1,23 @@
 <?php include 'header.php'; ?>
+
 <main>
-    <section class="projects">        
-            <h2>Thank You!</h2>            
-                Your message has been sent successfully. I’ll get back to you as soon as possible.
-            </p>
-            <a href="/" class="toggle-button" style="text-decoration:none;">
-                Back to Home
-            </a>
-        
+    <section class="projects">
+        <h2>Projects</h2>
+
+        <div class="project">
+            <div class="project-header">    
+                <h3>Thank You!</h3>
+            </div>
+            
+            <div class="project-body">
+                <p>Your message has been sent successfully. I’ll get back to you as soon as possible.</p>
+                <a href="/" class="toggle-button" style="text-decoration:none;">
+                    Back to Home
+                </a>
+            </div>
+        </div>
+
     </section>
 </main>
+
 <?php include 'footer.php'; ?>
