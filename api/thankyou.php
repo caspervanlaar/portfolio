@@ -1,8 +1,5 @@
 
-<?php
-// Ensure HTML output
-header("Content-Type: text/html; charset=UTF-8");
-?>
+<?php>
 <!DOCTYPE html>
 <html lang="en">
 <head>
