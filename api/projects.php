@@ -83,8 +83,9 @@ The results show that different brain areas carry their own electrophysiological
 
 
     <div class="project">
-  <h3>Children headcoach - absolute MMA</h3>
          <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/COACH_BJJ.jpg" alt="COACH_BJJ" border="0">
+  <h3>Children's headcoach - absolute MMA</h3>
+        
   <div class="project-content">
       
 
