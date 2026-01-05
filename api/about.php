@@ -2,13 +2,14 @@
 <main>
     <section class="about">
     <div class="about-header">
-        <h2>About Me</h2>
         <img
             src="https://raw.githubusercontent.com/caspervanlaar/portfolio/main/pixelartgit.png"
             alt=""
             aria-hidden="true"
             class="about-header-art"
         >
+        <h2>About Me</h2>
+        
     </div>
 
         
