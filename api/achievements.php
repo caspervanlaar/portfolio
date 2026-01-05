@@ -128,7 +128,7 @@
       <p><em>Oct 2024 – Present | Melbourne</em></p>
 
       <p><strong>Various Employers</strong> — Manual Labor Roles</p>
-      <p><em>Aug 2023 – 2025 | Australia</em></p>
+      <p><em>Aug 2023 – 2025 | Shepparton/Melbourne</em></p>
       <ul>
         <li>Construction and farming roles</li>
        
