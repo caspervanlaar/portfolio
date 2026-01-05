@@ -144,11 +144,12 @@
 
       <p><strong>Amara.org</strong> — Subtitler</p>
       <p><em>2016 – 2017 | Remote</em></p>
-    </div>
+    
 <p> <strong> Solyco </strong> — Tomato pick packer</p>
  <p><em>2014 – 2014 | Netherlands</em></p>
 
   </div>
+</div>
 </section>
 
 <script>
