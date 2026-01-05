@@ -1,8 +1,7 @@
 <?php include 'header.php'; ?>
 
 <main>
-    <section class="projects">
-        <h2>Projects</h2>
+    <section class="projects">       
 
         <div class="project">
             <div class="project-header">    
