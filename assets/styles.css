@@ -143,11 +143,11 @@ button {
     max-width: 150px; /* Adjust image size as needed */
     height: auto;
   }
-
 .project-header {
     display: flex;
     align-items: center;
     gap: 0.4rem;
+    margin-bottom: 0.6rem;
 }
 
 .project-header h3 {
