@@ -1,4 +1,4 @@
-<?php include $_SERVER['DOCUMENT_ROOT'].'/header.php'; ?>
+
 <main>
     <section class="projects" style="min-height: 60vh;">       
         <div class="project">
@@ -14,4 +14,4 @@
         </div>
     </section>
 </main>
-<?php include $_SERVER['DOCUMENT_ROOT'].'/footer.php'; ?>
+
