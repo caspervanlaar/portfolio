@@ -124,6 +124,8 @@
 
       <p><strong>Novotel</strong> — Houseman / Laundry / Room Attendant</p>
       <p><em>2025 – Present</em></p>
+<p><strong>Absolute MMA</strong> — Children’s Grappling Coach</p>
+      <p><em>Oct 2024 – Present | Melbourne</em></p>
 
       <p><strong>Various Employers</strong> — Manual Labor Roles</p>
       <p><em>Aug 2023 – 2025 | Australia</em></p>
@@ -132,8 +134,7 @@
         <li>Demonstrated reliability and adaptability</li>
       </ul>
 
-      <p><strong>Absolute MMA</strong> — Children’s Grappling Coach</p>
-      <p><em>Oct 2024 – Present | Melbourne</em></p>
+      
 
       <p><strong>Dutch Brazilian Jiu Jitsu League</strong> — Founder</p>
       <p><em>2022 – 2024 | Netherlands</em></p>
