@@ -170,6 +170,14 @@ button {
 .project-header h3 {
     margin: 0;
 }
+.project {
+    display: flex;
+    flex-direction: column; /* stack header above body */
+}
+
+.project-body {
+    display: block;
+}
 
 
 
