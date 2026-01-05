@@ -19,7 +19,7 @@
         <div class="project">
   <h3>Wavenet</h3>
   <div class="project-content">
-    <img src="https://i.ibb.co/ygsx9SW/Schermafbeelding-2024-11-18-200146.png" alt="Schermafbeelding-2024-11-18-200146" border="0">
+    <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/breintjuh.png" alt="breintjuh" border="0">
     <p>Trained a WaveNet model to sort EEG segments into physiological, pathological, artifact, and noise categories using a large annotated dataset from Mayo Clinic and St. Anne’s University Hospital. The model captures both short-range and long-range temporal structure through dilated causal convolutions and residual paths, which turned out to be a strong match for raw EEG.
 
 It outperformed earlier CNN and LSTM approaches, held its ground against a Temporal Convolutional Network baseline, and showed particularly sharp performance on noise and artifact detection. Some confusion between physiological and pathological classes remains, which mirrors the clinical ambiguity seen in practice. The pipeline includes dynamic dataset partitioning, normalization, and other steps aimed at making the model generalize rather than memorize.
@@ -44,7 +44,7 @@ The results show that different brain areas carry their own electrophysiological
 <div class="project">
   <h3>Trauma severity classifier</h3>
   <div class="project-content">
-  <img src="https://i.ibb.co/8sG8G0b/eq.png" alt="eq" border="0"></a>
+  <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/eq.png" alt="eq" border="0"></a>
     <p>I have worked on a project to classify trauma severity using EEG and other physiological data. Using various statistical and machine learning methods.
         The goal of this project was not getting a the best model.  Since there are better classifying techniques for that.
         But to sharpen my mathematical understanding of regression and classifying techniques. </p>
@@ -85,6 +85,7 @@ The results show that different brain areas carry their own electrophysiological
     <div class="project">
   <h3>Children headcoach - absolute MMA</h3>
   <div class="project-content">
+       <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/COACH_BJJ.jpg" alt="COACH_BJJ" border="0">
 
 <p>I coach the kids’ BJJ program at Absolute MMA, emphasizing fundamental skills through a balance of implicit and explicit motor learning. 
     Sessions combine technique, movement, and goal based situational drills, fostering both skill acquisition and cognitive engagement.
