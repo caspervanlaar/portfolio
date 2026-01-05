@@ -84,8 +84,9 @@ The results show that different brain areas carry their own electrophysiological
 
     <div class="project">
   <h3>Children headcoach - absolute MMA</h3>
+         <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/COACH_BJJ.jpg" alt="COACH_BJJ" border="0">
   <div class="project-content">
-       <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/COACH_BJJ.jpg" alt="COACH_BJJ" border="0">
+      
 
 <p>I coach the kids’ BJJ program at Absolute MMA, emphasizing fundamental skills through a balance of implicit and explicit motor learning. 
     Sessions combine technique, movement, and goal based situational drills, fostering both skill acquisition and cognitive engagement.
