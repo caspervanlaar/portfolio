@@ -133,38 +133,25 @@ button {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Main project body layout */
-.project-content {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-}
-
-.project-content img {
-    max-width: 150px;
-    height: auto;
-}
-
-/* Project header: title + small icon */
 .project-header {
     display: flex;
+    flex-direction: row;      /* force horizontal */
     align-items: center;
     gap: 0.4rem;
     margin-bottom: 0.6rem;
 }
 
-.project-header h3 {
-    margin: 0;
-    font-size: 1.4rem;
-}
+/* nuclear option: icon override */
+.project-header > img {
+    width: 24px !important;
+    max-width: 24px !important;
+    min-width: 24px !important;
+    height: auto !important;
 
-/* Header icon — hard override so it never scales */
-.project-header img {
-    width: 24px;
-    max-width: 24px;
-    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+
     opacity: 0.75;
-
     image-rendering: pixelated;
     image-rendering: crisp-edges;
 
@@ -179,6 +166,11 @@ button {
         rgba(0,0,0,0) 100%
     );
 }
+
+.project-header h3 {
+    margin: 0;
+}
+
 
 
 
