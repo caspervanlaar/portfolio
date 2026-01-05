@@ -144,6 +144,40 @@ button {
     height: auto;
   }
 
+.project-header {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.project-header h3 {
+    margin: 0;
+    font-size: 1.4rem;
+}
+
+.project-header img {
+    width: 24px;          /* icon scale */
+    height: auto;
+    opacity: 0.75;
+
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+
+    -webkit-mask-image: radial-gradient(
+        ellipse at center,
+        rgba(0,0,0,0.9) 55%,
+        rgba(0,0,0,0) 100%
+    );
+    mask-image: radial-gradient(
+        ellipse at center,
+        rgba(0,0,0,0.9) 55%,
+        rgba(0,0,0,0) 100%
+    );
+}
+
+
+
+
   .achievements-container {
     max-width: 900px;
     margin: 0 auto;
