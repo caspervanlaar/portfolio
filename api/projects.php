@@ -25,6 +25,7 @@
 <div class="project-header">
     <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/breintjuh.png" alt="" aria-hidden="true">
   <h3>Wavenet</h3>
+    </div>
   
     <div class="project-content">
     
@@ -35,13 +36,14 @@ It outperformed earlier CNN and LSTM approaches, held its ground against a Tempo
     
   </div>
 </div>  
-</div>
+
 
 
 <div class="project">
 <div class="project-header">
     <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/neurpixel.jpg" alt="" aria-hidden="true"></a>
   <h3>Brain region identification</h3>
+    </div>
   <div class="project-content"> 
       
     <p>This project tackles a long-standing issue in systems neuroscience: figuring out where Neuropixels recordings come from without relying on post-hoc histology. Instead of tracking probe locations through tissue and atlases, I built a data-driven method that classifies brain regions directly from electrophysiological activity.
@@ -52,13 +54,14 @@ The results show that different brain areas carry their own electrophysiological
         <a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_2440678_7CS078UZ1_Data%20Science.pdf" target="_blank">View the report</a></p>
     </div>
 </div>
-</div>
+
         
 <div class="project">
 <div class="project-header">
   <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/eq.png" alt="" aria-hidden="true"></a>
     <h3>Trauma severity classifier</h3>
-  <div class="project-content">
+</div>
+    <div class="project-content">
 
     <p>I have worked on a project to classify trauma severity using EEG and other physiological data. Using various statistical and machine learning methods.
         The goal of this project was not getting a the best model.  Since there are better classifying techniques for that.
@@ -67,7 +70,7 @@ The results show that different brain areas carry their own electrophysiological
        <a href="https://github.com/caspervanlaar/portfolio/blob/main/CASPER_VAN_LAAR_7CS070UZ3_REGRESSION_REPORT.pdf" target="_blank">View regression report</a></p>
     </div>
 </div>
-</div>
+
     
 
 
@@ -75,7 +78,8 @@ The results show that different brain areas carry their own electrophysiological
 <div class="project-header">
   <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/PSYBREI.png" alt="" aria-hidden="true"></a>
     <h3>EEG-based comprehension prediction</h3>
-  <div class="project-content">
+</div>
+    <div class="project-content">
 
   <p>This project explored whether EEG signals can predict how well subjects understand educational videos. 
       Using 14-channel EEG data and self-reported comprehension scores, I applied both supervised and unsupervised learning methods.
@@ -84,13 +88,14 @@ The results show that different brain areas carry their own electrophysiological
       <a href="https://github.com/caspervanlaar/portfolio/blob/main/REPORT_CVL_2440678_EEG_7CS074_UZ3.pdf" target="_blank">View report</a></p>
   </div>
 </div>
-</div>
+
 
 <div class="project">
     <div class="project-header">
   <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/DBJJL.png" alt="" Daria-hidden="true"></a>
         <h3>DBJJL</h3>
-  <div class="project-content">
+</div>
+        <div class="project-content">
 
   <p>What started as a passion project quickly turned into a growing community. 
     I founded the Dutch Brazilian Jiu Jitsu League to bring more structure and consistency to local BJJ competitions. 
@@ -101,7 +106,7 @@ The results show that different brain areas carry their own electrophysiological
       
   </div>
 </div>
-</div>
+
     
 
 
@@ -109,7 +114,7 @@ The results show that different brain areas carry their own electrophysiological
         <div class="project-header">
       <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/COACH_BJJ.jpg" alt="" aria-hidden="true"></a>         
   <h3>Children's headcoach - absolute MMA</h3>
-        
+</div>        
   <div class="project-content">
 
       
@@ -120,7 +125,7 @@ The results show that different brain areas carry their own electrophysiological
       
   </div>
 </div>
-    </div>
+    
     </section>
 
     
