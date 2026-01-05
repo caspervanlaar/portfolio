@@ -7,8 +7,9 @@
 
 <div class="project">
   <h3>Current project</h3>
+    <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/_51164edc-2724-4f6c-b8a7-462f8778870b.jpg", alt="_51164edc-2724-4f6c-b8a7-462f8778870b" border="0">
   <div class="project-content">
-       <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/_51164edc-2724-4f6c-b8a7-462f8778870b.jpg", alt="_51164edc-2724-4f6c-b8a7-462f8778870b" border="0">
+       
      <p>For my dissertation, I’m exploring neural networks inspired by the brain. Unlike standard AI, where signals are instantaneous, 
         neurons in the brain influence each other over time, creating population-level patterns called local field potentials (LFPs).
         In my work, neurons send wave-like, temporally extended signals that form a “field” in each layer, which then shapes the activity of other neurons.
