@@ -143,9 +143,9 @@ button {
 
 /* nuclear option: icon override */
 .project-header > img {
-    width: 128px !important;
-    max-width: 128px !important;
-    min-width: 128px !important;
+    width: 100px !important;
+    max-width: 100px !important;
+    min-width: 100px !important;
     height: auto !important;
 
     display: inline-block;
