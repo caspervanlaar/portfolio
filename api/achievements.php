@@ -144,5 +144,50 @@
   }
 </script>
 
+<div class="achievements-item">
+  <h3>Work Experience</h3>
 
+  <p><strong>Novotel</strong> — Houseman / Laundry / Room Attendant</p>
+  <p><em>2025 – Present</em></p>
+
+  <p><strong>Various Employers</strong> — Manual Labor Roles</p>
+  <p><em>Aug 2023 – 2025 | Melbourne & Regional Victoria, Australia</em></p>
+  <ul>
+    <li>Physically demanding roles across hospitality, logistics, and general labor</li>
+    <li>Demonstrated reliability, adaptability, and strong work ethic</li>
+  </ul>
+
+  <p><strong>Absolute MMA</strong> — Children’s Grappling Coach</p>
+  <p><em>Oct 2024 – Present | Melbourne, Australia</em></p>
+  <ul>
+    <li>Coaching Brazilian Jiu Jitsu fundamentals to children</li>
+    <li>Emphasis on discipline, safety, confidence, and motor skill development</li>
+  </ul>
+
+  <p><strong>Dutch Brazilian Jiu Jitsu League</strong> — Founder</p>
+  <p><em>2022 – 2024 | Netherlands</em></p>
+  <ul>
+    <li>Founded and managed a regional Brazilian Jiu Jitsu competition league</li>
+    <li>Organized events, coordinated athletes and referees, handled logistics</li>
+  </ul>
+
+  <p><strong>Forward Fight Academy</strong> — Grappling Coach</p>
+  <p><em>2019 – 2023 | Netherlands</em></p>
+  <ul>
+    <li>Coached adult and youth grappling classes</li>
+    <li>Developed training programs and competition preparation</li>
+  </ul>
+
+  <p><strong>Verwiel & Wijngaard</strong> — Restaurant Employee</p>
+  <p><em>2018 | Netherlands</em></p>
+
+  <p><strong>Amara.org</strong> — Subtitler (English & Dutch)</p>
+  <p><em>2016 – 2017 | Remote</em></p>
+  <ul>
+    <li>Created and reviewed subtitles for educational and nonprofit content</li>
+  </ul>
+
+  <p><strong>Solyco Greenhouse Farm</strong> — Tomato Packer</p>
+  <p><em>2014 | Netherlands</em></p>
+</div>
 <?php include 'footer.php'; ?>
