@@ -23,7 +23,7 @@
 
 <div class="project">
 <div class="project-header">
-    <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/main/pixelartgit.png alt="" aria-hidden="true">
+    <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/pixelartgit.png" alt="" aria-hidden="true">
   <h3>Wavenet</h3>
     </div>
   
