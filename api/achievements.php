@@ -127,14 +127,10 @@
 <p><strong>Absolute MMA</strong> — Children’s Grappling Coach</p>
       <p><em>Oct 2024 – Present | Melbourne</em></p>
 
-      <p><strong>Various Employers</strong> — Manual Labor Roles</p>
+      <p><strong>Various Employers</strong> — Construction and farming roles</p>
       <p><em>Aug 2023 – 2025 | Shepparton/Melbourne</em></p>
-      <ul>
-        <li>Construction and farming roles</li>
-       
-      </ul>
-
       
+       
 
       <p><strong>Dutch Brazilian Jiu Jitsu League</strong> — Founder</p>
       <p><em>2022 – 2024 | Netherlands</em></p>
