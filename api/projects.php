@@ -5,8 +5,8 @@
         
 
 
-<div class="project">
-    <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/_51164edc-2724-4f6c-b8a7-462f8778870b.jpg", alt="_51164edc-2724-4f6c-b8a7-462f8778870b" border="0">
+<div class="project-header">
+    <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/_51164edc-2724-4f6c-b8a7-462f8778870b.jpg", alt="" aria-hidden="true">
   <h3>Current project</h3>
     
   <div class="project-content">
