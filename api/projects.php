@@ -23,13 +23,13 @@
 
 <div class="project">
 <div class="project-header">
-    <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/breintjuh.png" alt="" aria-hidden="true">
+    <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/main/pixelartgit.png alt="" aria-hidden="true">
   <h3>Wavenet</h3>
     </div>
   
     <div class="project-content">
     
-    <p>Trained a WaveNet model to sort EEG segments into physiological, pathological, artifact, and noise categories using a large annotated dataset from Mayo Clinic and St. Anne’s University Hospital. The model captures both short-range and long-range temporal structure through dilated causal convolutions and residual paths, which turned out to be a strong match for raw EEG.
+    <p>Trained a WaveNet model to sort iEEG segments into physiological, pathological, artifact, and noise categories using a large annotated dataset from Mayo Clinic and St. Anne’s University Hospital. The model captures both short-range and long-range temporal structure through dilated causal convolutions and residual paths, which turned out to be a strong match for raw EEG.
 
 It outperformed earlier CNN and LSTM approaches, held its ground against a Temporal Convolutional Network baseline, and showed particularly sharp performance on noise and artifact detection. Some confusion between physiological and pathological classes remains, which mirrors the clinical ambiguity seen in practice. The pipeline includes dynamic dataset partitioning, normalization, and other steps aimed at making the model generalize rather than memorize.
         <a href="https://arxiv.org/abs/2510.15947" target="_blank">View pre print on arxiv</a> </p>
