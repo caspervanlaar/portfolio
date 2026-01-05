@@ -6,8 +6,9 @@
 
 
 <div class="project">
-  <h3>Current project</h3>
     <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/_51164edc-2724-4f6c-b8a7-462f8778870b.jpg", alt="_51164edc-2724-4f6c-b8a7-462f8778870b" border="0">
+  <h3>Current project</h3>
+    
   <div class="project-content">
        
      <p>For my dissertation, I’m exploring neural networks inspired by the brain. Unlike standard AI, where signals are instantaneous, 
