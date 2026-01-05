@@ -62,5 +62,31 @@
       </div>
     </div>
   </div>
+
+<div class="experience-container">
+  <div class="experience-item">
+
+    <div class="header-image">
+      <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/COACH_BJJ.jpg"
+           alt="Children's BJJ Head Coach - Absolute MMA">
+      <h3>Children’s Head Coach – Absolute MMA</h3>
+    </div>
+
+    <div class="text-content">
+      <p>
+        I coach the kids’ Brazilian Jiu-Jitsu program at Absolute MMA, emphasizing fundamental skill
+        development through a balance of implicit and explicit motor learning.
+        Sessions combine technical instruction, movement exploration, and goal-based situational
+        drills, fostering both motor proficiency and cognitive engagement.
+      </p>
+
+      <p>
+        Watching children develop coordination, confidence, and a genuine love for the sport makes
+        this one of the most rewarding and educational parts of my week.
+      </p>
+    </div>
+
+  </div>
+</div>
 </section>
 <?php include 'footer.php'; ?>
