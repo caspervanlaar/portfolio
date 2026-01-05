@@ -131,7 +131,7 @@
       <p><em>Aug 2023 – 2025 | Australia</em></p>
       <ul>
         <li>Construction and farming roles</li>
-        <li>Demonstrated reliability and adaptability</li>
+       
       </ul>
 
       
