@@ -3,9 +3,10 @@
     <section class="contact">
         <h2>Contact Me</h2>
 
-        <div class="project"> <!-- reuse project box styling -->
+        <div class="project">
             <div class="project-body">
-                <form action="https://formsubmit.co/casperdvanlaar@hotmail.com" method="POST">
+                <form id="contactForm" method="POST">
+                    
                     <!-- Your name -->
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" required>
@@ -18,10 +19,10 @@
                     <label for="message">Message:</label>
                     <textarea id="message" name="message" required></textarea>
 
-                    <!-- Optional: redirect after submit -->
+                    <!-- Redirect after submit -->
                     <input type="hidden" name="_next" value="https://caspervanlaar.com/api/thankyou">
 
-                    <!-- Optional: prevent spam -->
+                    <!-- Enable captcha -->
                     <input type="hidden" name="_captcha" value="true">
 
                     <button type="submit">Send Message</button>
@@ -31,4 +32,14 @@
 
     </section>
 </main>
+
+<script>
+(function () {
+    const user = "casperdvanlaar";
+    const domain = "hotmail.com";
+    const form = document.getElementById("contactForm");
+    form.action = "https://formsubmit.co/" + user + "@" + domain;
+})();
+</script>
+
 <?php include 'footer.php'; ?>
