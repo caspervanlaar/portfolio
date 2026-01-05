@@ -8,6 +8,7 @@
 <div class="project-header">
     <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/_51164edc-2724-4f6c-b8a7-462f8778870b.jpg", alt="" aria-hidden="true">
   <h3>Current project</h3>
+    </div>
     
   <div class="project-body">
        
@@ -16,7 +17,7 @@
         In my work, neurons send wave-like, temporally extended signals that form a “field” in each layer, which then shapes the activity of other neurons.
         I’m in the early stages, investigating how these field-like signals affect learning and network dynamics.</p>
   </div>
-</div>
+
 
         <div class="project">
   <h3>Wavenet</h3>
