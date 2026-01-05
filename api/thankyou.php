@@ -1,7 +1,12 @@
-<?php include 'header.php'; ?>
+<?php
+// Make sure this outputs HTML
+header("Content-Type: text/html; charset=UTF-8");
+?>
+
+<?php include '../header.php'; // adjust path if needed ?>
 
 <main>
-    <section class="projects">       
+    <section class="projects" style="min-height: 60vh;">       
         <div class="project">
             <div class="project-header">    
                 <h3>Thank You!</h3>
@@ -17,4 +22,4 @@
     </section>
 </main>
 
-<?php include 'footer.php'; ?>
+<?php include '../footer.php'; ?>
