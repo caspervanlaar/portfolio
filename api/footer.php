@@ -27,11 +27,12 @@
             </a>
 
             <!-- Google Scholar SVG -->
-            <a href="https://scholar.google.com/citations?hl=en&user=k4rRh5MAAAAJ" target="_blank" aria-label="Google Scholar">
-                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="white">
-                    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 2a3 3 0 0 1 3 3c0 .42-.09.81-.24 1.17L12 13 9.24 8.17A2.99 2.99 0 0 1 12 4zm0 16a7.97 7.97 0 0 1-6-2.74l1.5-1.5c1.37 1.37 3.19 2.24 5.1 2.24 1.91 0 3.73-.87 5.1-2.24l1.5 1.5A7.97 7.97 0 0 1 12 20z"/>
-                </svg>
-            </a>
+        <a href="https://scholar.google.com/citations?hl=en&user=k4rRh5MAAAAJ" target="_blank" aria-label="Google Scholar">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="24" height="24" fill="currentColor">
+        <path d="M32 4L2 20l30 16 30-16L32 4zm0 28L8 24v12l24 12 24-12V24L32 32z"/>
+        <path d="M32 48l-16-8v8l16 8 16-8v-8l-16 8z"/>
+    </svg>
+</a>
 
         </div>
     </div>
