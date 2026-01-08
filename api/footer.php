@@ -20,11 +20,13 @@
             </a>
 
             <!-- ORCID SVG -->
-            <a href="https://orcid.org/0009-0002-2703-2216" target="_blank" aria-label="ORCID">
-                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 256 256" fill="white">
-                    <path d="M128 0C57.31 0 0 57.31 0 128s57.31 128 128 128 128-57.31 128-128S198.69 0 128 0zm0 234.667c-58.94 0-106.667-47.727-106.667-106.667S69.06 21.333 128 21.333 234.667 69.06 234.667 128 186.94 234.667 128 234.667zm-44.267-128c0 24.467 19.8 44.267 44.267 44.267s44.267-19.8 44.267-44.267S152.467 62.4 128 62.4 83.733 102.2 83.733 106.667zm0 0"/>
-                </svg>
-            </a>
+          <a href="https://orcid.org/0009-0002-2703-2216" target="_blank" aria-label="ORCID">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="24" height="24" fill="currentColor">
+        <circle cx="128" cy="128" r="128" fill="#A6CE39"/>
+        <path fill="#fff" d="M128 67.9c33.5 0 60.8 27.3 60.8 60.8S161.5 189.5 128 189.5 67.2 162.2 67.2 128 94.5 67.9 128 67.9zm0 14.6c-25.5 0-46.2 20.7-46.2 46.2s20.7 46.2 46.2 46.2 46.2-20.7 46.2-46.2-20.7-46.2-46.2-46.2z"/>
+        <text x="128" y="148" font-size="72" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-weight="bold">iD</text>
+    </svg>
+</a>
 
             <!-- Google Scholar SVG -->
         <a href="https://scholar.google.com/citations?hl=en&user=k4rRh5MAAAAJ" target="_blank" aria-label="Google Scholar">
