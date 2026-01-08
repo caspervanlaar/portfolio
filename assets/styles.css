@@ -68,10 +68,12 @@ button {
     gap: 0.8rem;
 }
 
-.footer-icons {
-    display: flex;
-    gap: 0.8rem;
+.footer-icons a svg {
+    vertical-align: middle;
+    width: 1.1rem;
+    height: 1.1rem;
 }
+
 
 .footer-icons a {
     color: #fff;
