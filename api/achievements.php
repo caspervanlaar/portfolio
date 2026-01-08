@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <section class="achievements">
-  <h2>Achievements & Education</h2>
+  <h2>Resume</h2>
 
   <div class="achievements-container">
 
