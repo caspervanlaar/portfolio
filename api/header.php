@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Casper David van Laar | Portfolio</title>
     <link rel="stylesheet" href="assets/styles.css">
+    <!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-p6K2E1VXyVz7uT8ZQGQd0qF36cXkSxclCr0f4xuvavmZTl7bRnj6d4Sjs/VF5kKK5/axmh7x+o0b1N4yN1V1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    
 </head>
 <body>
     <header>
