@@ -26,16 +26,16 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td>Data Science (7CS078)</td><td>69</td></tr>
-            <tr><td>Data Visualisation (7CS079)</td><td><em>In Progress</em></td></tr>
-            <tr><td>Deep Machine Learning (7CS082)</td><td>82</td></tr>
-            <tr><td>Intelligent Agents (7CS083)</td><td>76.5</td></tr>
-            <tr><td>Applying Artificial Intelligence (7CS084)</td><td>75</td></tr>
-            <tr><td>Concepts & Technologies of AI (7CS070)</td><td>68</td></tr>
-            <tr><td>Virtualisation and Cloud Computing (7CS071)</td><td>P</td></tr>
-            <tr><td>Data Mining & Informatics (7CS074)</td><td>67</td></tr>
-            <tr><td>Research Methods (7CS075)</td><td>67</td></tr>
-            <tr><td>Project Management (7CS076)</td><td>50</td></tr>
+            <tr><td>Data Science </td><td>69</td></tr>
+            <tr><td>Data Visualisation </td><td><em>In Progress</em></td></tr>
+            <tr><td>Deep Machine Learning </td><td>82</td></tr>
+            <tr><td>Intelligent Agents </td><td>76.5</td></tr>
+            <tr><td>Applying Artificial Intelligence </td><td>75</td></tr>
+            <tr><td>Concepts & Technologies of AI </td><td>68</td></tr>
+            <tr><td>Virtualisation and Cloud Computing </td><td>P</td></tr>
+            <tr><td>Data Mining & Informatics </td><td>67</td></tr>
+            <tr><td>Research Methods </td><td>67</td></tr>
+            <tr><td>Project Management </td><td>50</td></tr>
             <tr><td>Dissertation</td><td><em>In Progress</em></td></tr>
           </tbody>
         </table>
@@ -118,7 +118,7 @@
       </ul>
     </div>
 
-    <!-- WORK EXPERIENCE (NOW PROPERLY BOXED) -->
+  
     <div class="achievements-item">
       <h3>Work Experience</h3>
 
