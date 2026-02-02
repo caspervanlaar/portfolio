@@ -9,7 +9,7 @@
     <div class="achievements-item">
       <h3>Education</h3>
 
-      <p><strong>University of Wolverhampton, England</strong> — MSc in Artificial Intelligence (current)</p>
+      <p><strong>University of Wolverhampton, England</strong> - MSc in Artificial Intelligence (current)</p>
       <p><em>Feb 2024 – Present</em></p>
       <p><strong>Current Grade Average (completed modules):</strong> 69.3</p>
 
@@ -51,7 +51,7 @@
 
     <!-- BACHELOR -->
     <div class="achievements-item">
-      <p><strong>University of Applied Sciences Arnhem and Nijmegen, The Netherlands</strong> — BA in Sport Science</p>
+      <p><strong>University of Applied Sciences Arnhem and Nijmegen, The Netherlands</strong> - BA in Sport Science</p>
       <p><em>Sept 2019 – Sept 2023</em></p>
       <p><strong>Weighted Average Mark (WAM):</strong> 7 / 3.3 / H2A</p>
       <ul>
@@ -67,17 +67,17 @@
           <li>
             Third year thesis:
             <em>The Role of Protein Intake in the Bone Health of Former Professional Cyclists</em>
-            — Grade: 8 / 4.0 / Distinction
+            - Grade: 8 / 4.0 / Distinction
           </li>
           <li>
             Honour thesis:
             <em>Does Daylight and Exercise Overclock the Brain?</em>
-            — Grade: 7 / 3.3 / Merit
+            - Grade: 7 / 3.3 / Merit
           </li>
           <li>
             Minor:
             <em>Cognitive Science, Utrecht University</em>
-            — Grade: 7.4 / 3.5 / Distinction
+            - Grade: 7.4 / 3.5 / Distinction
           </li>
         </ul>
       </div>
@@ -87,11 +87,11 @@
     <div class="achievements-item">
       <h3>Internships</h3>
 
-      <p><strong>Seneca</strong> — Sport & Exercise Nutrition Research Intern</p>
+      <p><strong>Seneca</strong> - Sport & Exercise Nutrition Research Intern</p>
       <p><em>Sept 2020 – Feb 2021 | Netherlands</em></p>
       <p>Developed e-learning, personalized cyclist nutrition plans, managed child motor testing.</p>
 
-      <p><strong>Erasmus MC</strong> — Neuroscience Department</p>
+      <p><strong>Erasmus MC</strong> - Neuroscience Department</p>
       <p><em>Sept 2021 – Sept 2023 | Netherlands</em></p>
       <p>Two-year internship focused on behavioral neuroscience and EEG data analysis.</p>
     </div>
@@ -100,12 +100,12 @@
     <div class="achievements-item">
       <h3>Certifications & Courses</h3>
       <ul>
-        <li>Computational Neuroscience — Neuromatch</li>
-        <li>Data Science Professional Certificate — IBM</li>
-        <li>DNA Decoded — McMaster University</li>
-        <li>Medical Neuroscience — Duke University</li>
+        <li>Computational Neuroscience - Neuromatch</li>
+        <li>Data Science Professional Certificate - IBM</li>
+        <li>DNA Decoded - McMaster University</li>
+        <li>Medical Neuroscience - Duke University</li>
         <li>Fellowship in Effective Altruism</li>
-        <li>Machine Learning — Stanford University</li>
+        <li>Machine Learning - Stanford University</li>
       </ul>
     </div>
 
@@ -122,26 +122,26 @@
     <div class="achievements-item">
       <h3>Work Experience</h3>
 
-      <p><strong>Novotel</strong> — Houseman / Laundry / Room Attendant</p>
-      <p><em>2025 – Present</em></p>
-<p><strong>Absolute MMA</strong> — Children’s Grappling Coach</p>
+      <p><strong>Novotel</strong> - Houseman / Laundry / Room Attendant</p>
+      <p><em>2025 – Present | Melbourne</em></p>
+<p><strong>Absolute MMA</strong> - Children’s Grappling Coach</p>
       <p><em>Oct 2024 – Present | Melbourne</em></p>
 
-      <p><strong>Various Employers</strong> — Construction and farming roles</p>
-      <p><em>Aug 2023 – 2025 | Shepparton/Melbourne</em></p>
+      <p><strong>Various Employers</strong> - Construction and farming roles</p>
+      <p><em>Aug 2023 – 2025 | Shepparton/Melbourne/Heathcote </em></p>
       
        
 
-      <p><strong>Dutch Brazilian Jiu Jitsu League</strong> — Founder</p>
+      <p><strong>Dutch Brazilian Jiu Jitsu League</strong> - Founder</p>
       <p><em>2022 – 2024 | Netherlands</em></p>
 
-      <p><strong>Forward Fight Academy</strong> — Grappling Coach</p>
+      <p><strong>Forward Fight Academy</strong> - Grappling Coach</p>
       <p><em>2019 – 2023 | Netherlands</em></p>
 
-      <p><strong>Amara.org</strong> — Subtitler</p>
+      <p><strong>Amara.org</strong> - Subtitler</p>
       <p><em>2016 – 2017 | Remote</em></p>
     
-<p> <strong> Solyco </strong> — Tomato pick packer</p>
+<p> <strong> Solyco </strong> - Tomato pick packer</p>
  <p><em>2014 – 2014 | Netherlands</em></p>
 
   </div>
