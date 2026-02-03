@@ -11,7 +11,7 @@
 
       <p><strong>University of Wolverhampton, England</strong> - MSc in Artificial Intelligence (current)</p>
       <p><em>Feb 2024 – Present</em></p>
-      <p><strong>Current Grade Average (completed modules):</strong> 69.3</p>
+      <p><strong>Current Grade Average (completed modules):</strong> 69.2</p>
 
       <button class="toggle-button" onclick="toggleSection('grades-section', this)">
         Show Grades
@@ -27,7 +27,7 @@
           </thead>
           <tbody>
             <tr><td>Data Science </td><td>69</td></tr>
-            <tr><td>Data Visualisation </td><td><em>In Progress</em></td></tr>
+            <tr><td>Data Visualisation </td><td><em>68</em></td></tr>
             <tr><td>Deep Machine Learning </td><td>82</td></tr>
             <tr><td>Intelligent Agents </td><td>76.5</td></tr>
             <tr><td>Applying Artificial Intelligence </td><td>75</td></tr>
