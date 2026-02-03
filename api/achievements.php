@@ -27,7 +27,7 @@
           </thead>
           <tbody>
             <tr><td>Data Science </td><td>69</td></tr>
-            <tr><td>Data Visualisation </td><td><em>68</em></td></tr>
+            <tr><td>Data Visualisation </td><td>68</td></tr>
             <tr><td>Deep Machine Learning </td><td>82</td></tr>
             <tr><td>Intelligent Agents </td><td>76.5</td></tr>
             <tr><td>Applying Artificial Intelligence </td><td>75</td></tr>
