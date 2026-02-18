@@ -35,10 +35,17 @@
         
         It outperformed earlier CNN and LSTM approaches, held its ground against a Temporal Convolutional Network baseline, and showed particularly sharp performance on noise and artifact detection. 
         Some confusion between physiological and pathological classes remains, which mirrors the clinical ambiguity seen in practice. The pipeline includes dynamic dataset partitioning, normalization, and other steps aimed at making the model generalize rather than memorize.
-        <a href="https://arxiv.org/abs/2510.15947" target="_blank">View pre print on arxiv</a> 
-hrer="https://doi.org/10.1007/s12021-026-09771-8"
-target="_blank">View publsihed article in neuroinformatics</a></p>
-    
+<p>
+    <a href="https://arxiv.org/abs/2510.15947" target="_blank">
+        View preprint on arXiv
+    </a>
+</p>
+
+<p>
+    <a href="https://doi.org/10.1007/s12021-026-09771-8" target="_blank">
+        View published article in Neuroinformatics
+    </a>
+</p>
   </div>
 </div>  
 
