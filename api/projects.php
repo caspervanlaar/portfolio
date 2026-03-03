@@ -61,7 +61,7 @@
     <p>This project tackles a long-standing issue in systems neuroscience: figuring out where Neuropixels recordings come from without relying on post-hoc histology. 
         Instead of tracking probe locations through tissue and atlases, I built a data-driven method that classifies brain regions directly from electrophysiological activity.
         Using the Allen Brain Observatory dataset, I compared classical models with several deep learning architectures trained on spike-train features and PSTHs. 
-        Traditional approaches collapsed across animals (accuracy <0.19), while deep models—especially a Transformer—learned reproducible neural signatures across mice (accuracy 0.35, AUC 0.86). 
+        Traditional approaches collapsed across animals (accuracy <0.19), while deep models. Especially a Transformer learned reproducible neural signatures across mice (accuracy 0.35, AUC 0.86). 
         Thalamic regions were the most identifiable.
         The results show that different brain areas carry their own electrophysiological “fingerprints,” making it possible to infer anatomical labels purely from neural responses. 
         This approach could eventually reduce dependence on histology and support less invasive localization strategies in neuroscience research. 
