@@ -100,12 +100,12 @@
     <div class="achievements-item">
       <h3>Certifications & Courses</h3>
       <ul>
-        <li>Computational Neuroscience - Neuromatch</li>
-        <li>Data Science Professional Certificate - IBM</li>
-        <li>DNA Decoded - McMaster University</li>
-        <li>Medical Neuroscience - Duke University</li>
-        <li>Fellowship in Effective Altruism</li>
-        <li>Machine Learning - Stanford University</li>
+        <li>Computational Neuroscience                Neuromatch</li>
+        <li>Data Science Professional Certificate     IBM</li>
+        <li>DNA Decoded                               McMaster University</li>
+        <li>Medical Neuroscience                      Duke University</li>
+        <li>Fellowship                                Effective Altruism</li>
+        <li>Machine Learning                          Stanford University</li>
       </ul>
     </div>
 
@@ -113,7 +113,7 @@
     <div class="achievements-item">
       <h3>Languages & Skills</h3>
       <ul>
-        <li>Languages: Dutch (native), English (fluent), Spanish (moderate), German (moderate), Italian (basic)</li>
+        <li>Languages: Dutch (native), English (fluent), Spanish (beginner), German (beginner), Italian (basic)</li>
         <li>Programming: Python, MATLAB, C#, php</li>
       </ul>
     </div>
@@ -122,27 +122,26 @@
     <div class="achievements-item">
       <h3>Work Experience</h3>
 
-      <p><strong>Novotel</strong> - Houseman / Laundry / Room Attendant</p>
+      <p><strong>Novotel</strong> - Houseman / Laundry runner / Room Attendant</p>
       <p><em>2025 – Present | Melbourne</em></p>
-<p><strong>Absolute MMA</strong> - Children’s Grappling Coach</p>
-      <p><em>Oct 2024 – Present | Melbourne</em></p>
+      
+      <p><strong>Absolute MMA</strong> - Children’s Grappling Coach</p>
+      <p><em>2024 – Present | Melbourne</em></p>
 
       <p><strong>Various Employers</strong> - Construction and farming roles</p>
-      <p><em>Aug 2023 – 2025 | Shepparton/Melbourne/Heathcote </em></p>
+      <p><em>2023 – 2025    | Shepparton/Melbourne/Heathcote </em></p>
       
-       
-
       <p><strong>Dutch Brazilian Jiu Jitsu League</strong> - Founder</p>
-      <p><em>2022 – 2024 | Netherlands</em></p>
+      <p><em>2022 – 2024    | Netherlands</em></p>
 
       <p><strong>Forward Fight Academy</strong> - Grappling Coach</p>
-      <p><em>2019 – 2023 | Netherlands</em></p>
+      <p><em>2019 – 2023    | Netherlands</em></p>
 
       <p><strong>Amara.org</strong> - Subtitler</p>
-      <p><em>2016 – 2017 | Remote</em></p>
+      <p><em>2016 – 2017    | Remote</em></p>
     
-<p> <strong> Solyco </strong> - Tomato pick packer</p>
- <p><em>2014 – 2014 | Netherlands</em></p>
+      <p> <strong> Solyco </strong> - Tomato pick packer</p>
+      <p><em>2014 – 2014    | Netherlands</em></p>
 
   </div>
 </div>
