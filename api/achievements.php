@@ -46,7 +46,7 @@
             <strong> Credit:</strong> 180 ECTS
             <strong> Weighted Average Mark (WAM):</strong> 70.4 / 3.3 / Distinction
             <strong> Dissertation:</strong>: GLOBAL FIELD MODULATION IN SEQUENCE PROCESSING:Impact on synchrony, rank efficiency, interference and autocorrelation
-            <p> <a href="https://arxiv.org/abs/2510.15947" target="_blank"> View preprint on arXiv </a></p>
+            <p> <a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_dissertationV9.pdf" target="_blank"> View report </a></p>
             
           </small>
         </p>
