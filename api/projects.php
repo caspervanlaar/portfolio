@@ -12,13 +12,15 @@
     
   <div class="project-body">
        
-     <p>For my dissertation, I’m exploring how ideas from population-level brain dynamics can improve lightweight neural networks. 
-         Instead of treating neuron activations as isolated events, I introduce a shared temporal field that integrates activity across a layer over time. 
-         This field provides global context and dynamically modulates neural responses, similar in spirit to how population signals coordinate activity in biological brains.
-         The approach is tested in ultra-small models on temporal benchmarks and EEG-related tasks, with a focus on generalization, training stability, and learning dynamics. 
-         The goal is not biological realism, but principled inductive bias design inspired by neuroscience.</p>
+     <p>My dissertation explores the introduction of a Global Field (GF) mechanism in lightweight neural networks, inspired by population-level brain dynamics such as Local Field Potentials (LFPs). 
+         The GF acts as a shared temporal field that integrates activity across a layer over time, providing global context and dynamically modulating neural responses. 
+         This approach is tested on temporal benchmarks like sequential and permuted MNIST, the Adding and Copying tasks, and sequential CIFAR-10, with a focus on representational stability, 
+         interference resistance, and learning dynamics. Key findings include a 4.6-fold accuracy improvement in sequential CIFAR-10 and the identification of a bifurcation threshold in the 
+         F's inertia parameter, paralleling edge-of-chaos dynamics. The goal is to enable coordination-without-collapse, fostering functional integration in architectures lacking inherent 
+         cross-unit communication. </p>
+      </p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_dissertationV9.pdf" target="_blank"> View report </a></p>
   </div>
-</div>
+</div>My dissertation explores the introduction of a Global Field (GF) mechanism in lightweight neural networks, inspired by population-level brain dynamics such as Local Field Potentials (LFPs). The GF acts as a shared temporal field that integrates activity across a layer over time, providing global context and dynamically modulating neural responses. This approach is tested on temporal benchmarks like sequential and permuted MNIST, the Adding and Copying tasks, and sequential CIFAR-10, with a focus on representational stability, interference resistance, and learning dynamics. Key findings include a 4.6-fold accuracy improvement in sequential CIFAR-10 and the identification of a bifurcation threshold in the GF's inertia parameter, paralleling edge-of-chaos dynamics. The goal is to enable coordination-without-collapse, fostering functional integration in architectures lacking inherent cross-unit communication. 
 
 
 
@@ -65,7 +67,7 @@
         Thalamic regions were the most identifiable.
         The results show that different brain areas carry their own electrophysiological “fingerprints,” making it possible to infer anatomical labels purely from neural responses. 
         This approach could eventually reduce dependence on histology and support less invasive localization strategies in neuroscience research. 
-        <a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_2440678_7CS078UZ1_Data%20Science.pdf" target="_blank">View the report</a></p>
+        </p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_2440678_7CS078UZ1_Data%20Science.pdf" target="_blank">View the report</a></p></p>
     </div>
 </div>
 
@@ -98,8 +100,8 @@
   <p>This project explored whether EEG signals can predict how well subjects understand educational videos. 
       Using 14-channel EEG data and self-reported comprehension scores, I applied both supervised and unsupervised learning methods.
       Support Vector Machines achieved up to 88.66% balanced accuracy. PCA and K-Means revealed underlying patterns 
-      linked to comprehension. The findings highlight EEG’s potential for adaptive learning systems and real-time cognitive monitoring. 
-      <a href="https://github.com/caspervanlaar/portfolio/blob/main/REPORT_CVL_2440678_EEG_7CS074_UZ3.pdf" target="_blank">View report</a></p>
+      linked to comprehension. The findings highlight EEG’s potential for adaptive learning systems and real-time cognitive monitoring. </p>
+      </p><a href="https://github.com/caspervanlaar/portfolio/blob/main/REPORT_CVL_2440678_EEG_7CS074_UZ3.pdf" target="_blank">View report</a></p>
   </div>
 </div>
 
