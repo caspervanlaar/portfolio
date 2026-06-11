@@ -42,10 +42,10 @@
 
         <p>
           <small>            
-            <strong> Graduated:</strong> June, 2026
-            <strong> Credit:</strong> 180 ECTS
-            <strong> Weighted Average Mark (WAM):</strong> 70.4 / 3.3 / Distinction
-            <strong> Dissertation:</strong>: GLOBAL FIELD MODULATION IN SEQUENCE PROCESSING:Impact on synchrony, rank efficiency, interference and autocorrelation
+             <p><strong> Graduated:</strong> June, 2026 <p>
+             <p><strong> Credit:</strong> 180 ECTS <p>
+             <p><strong> Weighted Average Mark (WAM):</strong> 70.4 / 3.3 / Distinction <p>
+             <p><strong> Dissertation:</strong> GLOBAL FIELD MODULATION IN SEQUENCE PROCESSING:Impact on synchrony, rank efficiency, interference and autocorrelation <p>
             <p> <a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_dissertationV9.pdf" target="_blank"> View report </a></p>
             
           </small>
