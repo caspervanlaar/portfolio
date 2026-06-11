@@ -43,10 +43,10 @@
         <p>
           <small>            
              <p><strong> Graduated:</strong> June, 2026 <p>
-             <p><strong> Credit:</strong> 180 ECTS <p>
+             <p><strong> Credits:</strong> 90 ECTS <p>
              <p><strong> Weighted Average Mark (WAM):</strong> 70.4 / 3.3 / Distinction <p>
-             <p><strong> Dissertation:</strong> GLOBAL FIELD MODULATION IN SEQUENCE PROCESSING:Impact on synchrony, rank efficiency, interference and autocorrelation <p>
-            <p> <a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_dissertationV9.pdf" target="_blank"> View report </a></p>
+             <p><strong> Dissertation:</strong> GLOBAL FIELD MODULATION IN SEQUENCE PROCESSING:Impact on synchrony, rank efficiency, interference and autocorrelation 
+             <a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_dissertationV9.pdf" target="_blank"> View report </a></p>
             
           </small>
         </p>
@@ -59,7 +59,7 @@
       <p><em>Sept 2019 – Sept 2023</em></p>
       <p><strong>Weighted Average Mark (WAM):</strong> 7 / 3.3 / H2A</p>
       <ul>
-        <li>Total ECTS credits: 240</li>
+        <li>Credits: 240 ECTS</li>
       </ul>
 
       <button class="toggle-button" onclick="toggleSection('thesis-section', this)">
@@ -133,7 +133,7 @@
       <p><em>2024 – Present | Melbourne</em></p>
 
       <p><strong>Various Employers</strong> - Construction and farming roles</p>
-      <p><em>2023 – 2025    | Shepparton/Melbourne/Heathcote </em></p>
+      <p><em>2023 – 2025    | Shepparton/Melbourne/Heathcote/Bendigo </em></p>
       
       <p><strong>Dutch Brazilian Jiu Jitsu League</strong> - Founder</p>
       <p><em>2022 – 2024    | Netherlands</em></p>
