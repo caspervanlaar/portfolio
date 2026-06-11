@@ -9,7 +9,7 @@
     <div class="achievements-item">
       <h3>Education</h3>
 
-      <p><strong>University of Wolverhampton, England</strong> - MSc in Artificial Intelligence (current)</p>
+      <p><strong>University of Wolverhampton, England</strong> - MSc in computer science with artificial intelligence</p>
       <p><em> May 2024 – June 2026 </em></p>
       <p><em> Grade:</strong> 70.4 / 3.3 / Distinction <em></p>
 
