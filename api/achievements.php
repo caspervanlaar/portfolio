@@ -10,8 +10,8 @@
       <h3>Education</h3>
 
       <p><strong>University of Wolverhampton, England</strong> - MSc in Artificial Intelligence (current)</p>
-      <p><em>Feb 2024 – Present</em></p>
-      <p><strong>Current Grade Average (completed modules):</strong> 69.2</p>
+      <p><em> May 2024 – June 2026 </em></p>
+      <p><em> Grade:</strong> 70.4 / 3.3 / Distinction <em></p>
 
       <button class="toggle-button" onclick="toggleSection('grades-section', this)">
         Show Grades
@@ -36,14 +36,18 @@
             <tr><td>Data Mining & Informatics </td><td>67</td></tr>
             <tr><td>Research Methods </td><td>67</td></tr>
             <tr><td>Project Management </td><td>50</td></tr>
-            <tr><td>Dissertation</td><td><em>In Progress</em></td></tr>
+            <tr><td>Dissertation  </td><td>76</td></tr>
           </tbody>
         </table>
 
         <p>
-          <small>
-            <strong>Expected dissertation date:</strong> January 13, 2026<br>
-            <strong>Expected graduation:</strong> April 13, 2026
+          <small>            
+            <strong> Graduated:</strong> June, 2026
+            <strong> Credit:</strong> 180 ECTS
+            <strong> Weighted Average Mark (WAM):</strong> 70.4 / 3.3 / Distinction
+            <strong> Dissertation:</strong>: GLOBAL FIELD MODULATION IN SEQUENCE PROCESSING:Impact on synchrony, rank efficiency, interference and autocorrelation
+            <p> <a href="https://arxiv.org/abs/2510.15947" target="_blank"> View preprint on arXiv </a></p>
+            
           </small>
         </p>
       </div>
