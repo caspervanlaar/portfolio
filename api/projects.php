@@ -20,8 +20,6 @@
          cross-unit communication. </p>
       </p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_dissertationV9.pdf" target="_blank"> View report </a></p>
   </div>
-</div>My dissertation explores the introduction of a Global Field (GF) mechanism in lightweight neural networks, inspired by population-level brain dynamics such as Local Field Potentials (LFPs). The GF acts as a shared temporal field that integrates activity across a layer over time, providing global context and dynamically modulating neural responses. This approach is tested on temporal benchmarks like sequential and permuted MNIST, the Adding and Copying tasks, and sequential CIFAR-10, with a focus on representational stability, interference resistance, and learning dynamics. Key findings include a 4.6-fold accuracy improvement in sequential CIFAR-10 and the identification of a bifurcation threshold in the GF's inertia parameter, paralleling edge-of-chaos dynamics. The goal is to enable coordination-without-collapse, fostering functional integration in architectures lacking inherent cross-unit communication. 
-
 
 
 <div class="project">
