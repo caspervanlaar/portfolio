@@ -20,6 +20,7 @@
          cross-unit communication. </p>
       </p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_dissertationV9.pdf" target="_blank"> View report </a></p>
   </div>
+</div>
 
 
 <div class="project">
