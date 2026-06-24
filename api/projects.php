@@ -7,7 +7,7 @@
 <div class="project">
 <div class="project-header">
     <img src="https://raw.githubusercontent.com/caspervanlaar/portfolio/refs/heads/main/_51164edc-2724-4f6c-b8a7-462f8778870b.jpg", alt="" aria-hidden="true">
-  <h3>Current project</h3>
+  <h3>Global Fieldt</h3>
     </div>
     
   <div class="project-body">
@@ -16,7 +16,7 @@
          The GF acts as a shared temporal field that integrates activity across a layer over time, providing global context and dynamically modulating neural responses. 
          This approach is tested on temporal benchmarks like sequential and permuted MNIST, the Adding and Copying tasks, and sequential CIFAR-10, with a focus on representational stability, 
          interference resistance, and learning dynamics. Key findings include a 4.6-fold accuracy improvement in sequential CIFAR-10 and the identification of a bifurcation threshold in the 
-         F's inertia parameter, paralleling edge-of-chaos dynamics. The goal is to enable coordination-without-collapse, fostering functional integration in architectures lacking inherent 
+         GF's inertia parameter, paralleling edge-of-chaos dynamics. The goal is to enable coordination-without-collapse, fostering functional integration in architectures lacking inherent 
          cross-unit communication. </p>
       </p><a href="https://github.com/caspervanlaar/portfolio/blob/main/CVL_dissertationV9.pdf" target="_blank"> View report </a></p>
   </div>
